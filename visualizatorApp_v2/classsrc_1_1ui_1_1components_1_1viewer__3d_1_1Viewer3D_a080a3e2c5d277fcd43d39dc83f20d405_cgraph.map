@@ -1,0 +1,6 @@
+<map id="src.ui.components.viewer_3d.Viewer3D.clear_tech_columns" name="src.ui.components.viewer_3d.Viewer3D.clear_tech_columns">
+<area shape="rect" id="Node000001" title="Clear all technical columns from the plotter." alt="" coords="5,22,195,77"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a335f130397eb52ecd9948b93dc30de4d" title="Remove a named actor from the plotter." alt="" coords="243,29,449,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,47,229,47,229,52,195,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="300,30,298,20,305,10,321,5,346,3,375,6,390,13,388,18,373,11,346,8,322,10,308,15,303,21,305,28"/>
+</map>

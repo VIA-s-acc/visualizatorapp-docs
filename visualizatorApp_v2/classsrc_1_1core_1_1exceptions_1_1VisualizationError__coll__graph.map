@@ -1,0 +1,7 @@
+<map id="src.core.exceptions.VisualizationError" name="src.core.exceptions.VisualizationError">
+<area shape="rect" id="Node000001" title="Exception raised when visualization fails." alt="" coords="5,167,241,207"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1core_1_1exceptions_1_1VisualizatorError.html" title="Base exception for all VisualizatorApp errors." alt="" coords="9,79,238,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,133,126,166,121,166,121,133"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,5,167,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,44,126,79,121,79,121,44"/>
+</map>

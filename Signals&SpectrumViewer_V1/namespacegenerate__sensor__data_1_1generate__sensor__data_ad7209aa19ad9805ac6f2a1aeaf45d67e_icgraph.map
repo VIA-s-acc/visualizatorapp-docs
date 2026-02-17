@@ -1,0 +1,8 @@
+<map id="generate_sensor_data.generate_sensor_data._time_axis" name="generate_sensor_data.generate_sensor_data._time_axis">
+<area shape="rect" id="Node000001" title="Create time axis for requested duration and sample rate." alt="" coords="557,29,785,69"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1generate__sensor__data.html#aa86a54abd2ebf01fd2bb519e44e0d3eb" title="Generate one dataset run." alt="" coords="281,29,509,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,52,510,52,510,47,544,47"/>
+<area shape="rect" id="Node000003" href="$namespacegenerate__sensor__data_1_1generate__sensor__data.html#acb9b0db5e2a4d73c63c1c3eba8191a10" title="CLI entry point for sensor data generation." alt="" coords="5,29,233,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,52,234,52,234,47,268,47"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="166,18,150,11,119,8,93,10,76,15,71,21,74,28,69,30,65,20,74,10,92,5,119,3,151,5,168,13"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="generate_sensor_data.generators.scenarios.build_scenario" name="generate_sensor_data.generators.scenarios.build_scenario">
+<area shape="rect" id="Node000001" title="Build a default scenario configuration." alt="" coords="5,197,348,237"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#a636ac999ffc67bd01830103d65086598" title="_chirp function." alt="" coords="396,5,707,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,195,279,126,335,87,395,55,415,47,417,52,397,60,338,92,283,130,201,199"/>
+<area shape="rect" id="Node000003" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#adfd6ab752d7dbd65a100a3d16e72c21f" title="_correlation function." alt="" coords="396,69,707,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,195,297,157,395,119,426,110,427,115,397,124,299,161,218,200"/>
+<area shape="rect" id="Node000004" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#afdaaf12a1e8041e2deef1d7eb16c975a" title="_events function." alt="" coords="396,133,707,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,195,420,173,421,178,295,200"/>
+<area shape="rect" id="Node000006" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#a9fe917cab350c6cf7ad4b69770262bdb" title="_harmonic function." alt="" coords="396,197,707,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="348,215,382,215,382,220,348,220"/>
+<area shape="rect" id="Node000007" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#ac91ed453028bcbe87139bbbeb25eaa0f" title="_mixed function." alt="" coords="396,261,707,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="295,235,421,256,420,262,294,240"/>
+<area shape="rect" id="Node000008" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#afdc4cb97845755a05dbe6b0c97c2f146" title="_regimes function." alt="" coords="396,325,707,365"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="218,235,299,273,397,311,427,319,426,325,395,316,297,278,216,240"/>
+<area shape="rect" id="Node000009" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#a1a24a9e81cde26619c38b7d3ad502fdc" title="_stationary function." alt="" coords="396,389,707,429"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="201,236,283,305,338,343,397,375,417,383,415,388,395,380,335,347,279,309,197,240"/>
+<area shape="rect" id="Node000005" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#abc2c158c718d1d6f8adfae105a815d54" title="Construct base sensor object with repeated channel components." alt="" coords="755,261,1065,301"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="666,171,708,183,791,217,863,253,860,257,789,221,706,188,664,176"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="664,387,706,375,789,341,860,305,863,310,791,346,708,380,666,392"/>
+</map>

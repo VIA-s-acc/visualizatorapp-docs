@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.metrics_tables_controller.MetricsTablesController._apply_rows_batched" name="signal_spectrum_utility.metrics_tables_controller.MetricsTablesController._apply_rows_batched">
+<area shape="rect" id="Node000001" title="Apply rows in fixed&#45;size batches and defer repaint to keep UI responsive." alt="" coords="408,5,705,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1metrics__tables__controller_1_1MetricsTablesController.html#ac17d401f4af528dc3c21a8ca10967bd1" title="set_rows function." alt="" coords="5,13,360,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,35,360,35,360,30,394,30"/>
+</map>

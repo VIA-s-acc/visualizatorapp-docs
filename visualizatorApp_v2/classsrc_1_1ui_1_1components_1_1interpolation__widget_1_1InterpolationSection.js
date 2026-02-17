@@ -1,0 +1,26 @@
+var classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection =
+[
+    [ "__init__", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ad9b1c69fc3e1f89be6f59d41fdde7c86", null ],
+    [ "_fetch_available_methods", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a7a05996759ccf51645db99c1a7ff603c", null ],
+    [ "_on_method_changed", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a254df37277451e460efa607e2f9ebcc6", null ],
+    [ "_run_interpolation", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a486b0625f177ec827253c65dcc47e9e9", null ],
+    [ "_setup_controls", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ad9bc588915edfe3df52efdabf791f6e0", null ],
+    [ "get_grid_resolution", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a7ff700ad0a8e23034a7ad9c30cdb5636", null ],
+    [ "get_method", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a27a0ae4bf941774fa108324493b0d57a", null ],
+    [ "get_parameters", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#add36f1e8fcbedf401f0fbb0528d808e6", null ],
+    [ "is_running", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a697133cdad7d8a2791a176de8a2f03c8", null ],
+    [ "set_running", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ac2fb356515344576fa8ed17734badc77", null ],
+    [ "_fetch_available_methods", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ac094e643f548d3f99ee8cdffb9268b52", null ],
+    [ "_is_running", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#acb179eb587f81586a2e1d2a0717caf12", null ],
+    [ "_loading_spinner", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a8bbdb7969d019438e55f3fce4652c976", null ],
+    [ "_method_combo", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ace7120f457d99b688ac6cec40bb8097d", null ],
+    [ "_nx_spin", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a3ffd8bda70ce80976963c42f9d866c7e", null ],
+    [ "_ny_spin", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a594ac9f9ec001946cb608b06ab1049be", null ],
+    [ "_nz_spin", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a4708e528612d20b86f2d97bdaae5c658", null ],
+    [ "_on_method_changed", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a3966110c0539ce4c11407f8a325a695d", null ],
+    [ "_params_widget", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ab376d1acac10c57cf78b1a654e8f61be", null ],
+    [ "_refresh_button", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a43ff78344aae713ac3f4851f024c4b7e", null ],
+    [ "_run_button", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ad208e4126aebc0514e28faaeb6b5e55d", null ],
+    [ "_run_interpolation", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#a5981dd6edc2dc9fd130754ee4510a013", null ],
+    [ "interpolation_requested", "classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ab1b1738404b8e5f005ac8dd469984581", null ]
+];

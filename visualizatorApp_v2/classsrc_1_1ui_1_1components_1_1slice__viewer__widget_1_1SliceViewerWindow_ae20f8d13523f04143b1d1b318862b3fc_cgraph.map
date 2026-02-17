@@ -1,0 +1,22 @@
+<map id="src.ui.components.slice_viewer_widget.SliceViewerWindow.show_slice" name="src.ui.components.slice_viewer_widget.SliceViewerWindow.show_slice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,249,336,289"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a121091091ac1e05310158d39c8052df9" title=" " alt="" coords="407,5,665,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,247,218,209,264,161,320,111,383,69,394,63,397,68,385,74,323,115,268,164,222,212,190,250"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a53b09de4ecfc67d151f3d470624d2a7a" title=" " alt="" coords="407,84,665,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,246,281,197,331,171,383,148,402,141,404,146,385,152,334,176,284,202,203,251"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#aa95eebc2abae8b7ec077f9469fc3b52f" title=" " alt="" coords="407,163,665,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,246,394,218,396,223,265,251"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a19d51687f0b363b71a9cfd0a8c9837dc" title=" " alt="" coords="407,241,665,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="336,266,393,266,393,271,336,271"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a0dffef93f0bc0f6789e33c39bc5ca3c2" title=" " alt="" coords="391,320,681,375"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="265,286,396,314,394,320,264,291"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a18cd859c02e1bfc754698302c9fdaa15" title=" " alt="" coords="391,399,681,453"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="204,287,284,335,385,384,408,392,406,397,383,388,282,339,201,291"/>
+<area shape="rect" id="Node000010" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#acfc596cdad0e6b3e16f481bb2e79d22b" title=" " alt="" coords="384,477,688,532"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="190,287,222,325,268,373,323,422,385,464,397,469,394,474,383,468,320,426,264,377,218,329,186,291"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a92e2ac487ed4431ca172b7636a3b9513" title=" " alt="" coords="1043,400,1301,455"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="682,419,736,418,995,418,1029,419,1029,424,995,423,736,423,682,424"/>
+<area shape="rect" id="Node000009" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a7b49565f27f20abf3328b4dbf013254a" title=" " alt="" coords="736,432,995,487"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="682,438,723,442,722,448,681,443"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="994,443,1029,440,1029,445,995,449"/>
+</map>

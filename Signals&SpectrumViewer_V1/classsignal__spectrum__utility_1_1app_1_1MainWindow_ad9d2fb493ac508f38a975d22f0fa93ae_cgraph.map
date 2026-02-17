@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._update_segmentation_param_visibility" name="signal_spectrum_utility.app.MainWindow._update_segmentation_param_visibility">
+<area shape="rect" id="Node000001" title="Show only segmentation controls relevant to selected method." alt="" coords="5,5,264,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aeb2283dc2a890d0ce1b34aa88737856d" title="Set visibility for a segmentation parameter label/control row." alt="" coords="312,5,528,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,30,298,30,298,35,264,35"/>
+</map>

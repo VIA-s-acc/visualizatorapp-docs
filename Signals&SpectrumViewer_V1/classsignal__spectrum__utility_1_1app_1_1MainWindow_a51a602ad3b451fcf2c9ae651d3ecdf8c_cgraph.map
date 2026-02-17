@@ -1,0 +1,21 @@
+<map id="signal_spectrum_utility.app.MainWindow._export_spectrum_chart" name="signal_spectrum_utility.app.MainWindow._export_spectrum_chart">
+<area shape="rect" id="Node000001" title="Export spectrum chart as PNG/SVG." alt="" coords="5,174,272,214"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#addc66005617d50e360868335e933cfa9" title="Export widget snapshot as PNG or SVG." alt="" coords="320,174,569,214"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,192,306,192,306,197,272,197"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="932,332,1136,372"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="181,212,260,248,367,292,490,334,554,352,618,365,688,374,744,375,872,365,918,362,918,367,872,370,744,380,688,380,617,370,553,357,488,339,365,297,258,253,179,217"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="920,9,1148,49"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="178,172,256,135,363,89,487,45,552,27,617,13,688,4,744,4,872,13,906,15,906,20,872,18,744,9,688,9,618,18,554,32,489,51,365,94,258,140,180,177"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#add9a5441903abb09b07224547bab0165" title="Build default export path suggestion." alt="" coords="621,66,868,106"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="486,172,547,145,616,117,647,108,648,113,618,122,549,149,488,177"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2fa880a7862fa9ec804fba36f34d71cd" title="Normalize export path by appending extension if omitted." alt="" coords="634,131,855,186"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="569,177,620,171,621,176,570,182"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad6762753bc21c6da54484228037ab3b6" title="Save pixmap snapshot wrapped inside SVG container." alt="" coords="617,210,872,250"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="570,207,604,211,604,216,569,212"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="466,213,529,271,572,301,618,324,694,345,772,357,849,361,918,360,919,365,849,366,772,362,693,351,616,329,569,305,526,275,462,217"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="461,172,488,144,524,110,568,77,616,52,689,30,764,18,838,14,906,14,906,20,839,19,765,24,690,36,618,57,571,82,528,114,492,147,465,176"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="643,274,847,314"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="493,212,618,260,646,268,644,273,616,265,491,217"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="847,312,920,327,919,332,846,317"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="846,274,871,260,897,239,921,215,963,160,995,106,1017,61,1022,63,1000,109,967,163,925,218,901,243,873,265,849,278"/>
+</map>

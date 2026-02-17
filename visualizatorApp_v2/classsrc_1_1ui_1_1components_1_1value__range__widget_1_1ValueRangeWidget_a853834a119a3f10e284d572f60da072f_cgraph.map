@@ -1,0 +1,5 @@
+<map id="src.ui.components.value_range_widget.ValueRangeWidget._on_item_double_clicked" name="src.ui.components.value_range_widget.ValueRangeWidget._on_item_double_clicked">
+<area shape="rect" id="Node000001" title="Handle double&#45;click on range item to edit." alt="" coords="5,5,253,60"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1value__range__widget_1_1ValueRangeWidget.html#a07b41e42039f155ace721d50a9632893" title="Edit a range at given row." alt="" coords="301,5,549,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,30,288,30,288,35,253,35"/>
+</map>

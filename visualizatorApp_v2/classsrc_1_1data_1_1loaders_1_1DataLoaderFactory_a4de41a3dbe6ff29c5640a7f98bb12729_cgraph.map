@@ -1,0 +1,5 @@
+<map id="src.data.loaders.DataLoaderFactory.get_loader" name="src.data.loaders.DataLoaderFactory.get_loader">
+<area shape="rect" id="Node000001" title="Get appropriate loader for file." alt="" coords="5,5,211,45"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1data_1_1loaders_1_1DataLoaderFactory.html#a37977f69a45353f954d74c0d11751388" title="Check if file is CSV format." alt="" coords="259,5,464,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,23,245,23,245,28,211,28"/>
+</map>

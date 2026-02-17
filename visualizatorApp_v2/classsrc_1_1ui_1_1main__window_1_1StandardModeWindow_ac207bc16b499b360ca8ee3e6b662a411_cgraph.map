@@ -1,0 +1,7 @@
+<map id="src.ui.main_window.StandardModeWindow._on_interp_progress" name="src.ui.main_window.StandardModeWindow._on_interp_progress">
+<area shape="rect" id="Node000001" title="Handle interpolation progress." alt="" coords="5,41,249,81"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="299,5,511,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,43,284,38,285,44,250,48"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="297,70,512,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,75,284,79,283,84,249,80"/>
+</map>

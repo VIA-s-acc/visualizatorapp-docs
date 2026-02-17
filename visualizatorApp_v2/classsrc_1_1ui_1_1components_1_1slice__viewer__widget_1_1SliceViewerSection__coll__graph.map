@@ -1,0 +1,7 @@
+<map id="src.ui.components.slice_viewer_widget.SliceViewerSection" name="src.ui.components.slice_viewer_widget.SliceViewerSection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,167,257,207"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1collapsible__section_1_1CollapsibleSection.html" title="A collapsible widget with a title bar." alt="" coords="24,79,239,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,133,134,166,129,166,129,133"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="92,5,171,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,44,134,79,129,79,129,44"/>
+</map>

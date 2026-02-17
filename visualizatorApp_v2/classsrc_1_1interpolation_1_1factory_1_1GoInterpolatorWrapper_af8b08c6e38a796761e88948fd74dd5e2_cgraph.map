@@ -1,0 +1,10 @@
+<map id="src.interpolation.factory.GoInterpolatorWrapper.interpolate" name="src.interpolation.factory.GoInterpolatorWrapper.interpolate">
+<area shape="rect" id="Node000001" title="Perform interpolation via Go service." alt="" coords="5,53,251,93"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="80,53,77,43,85,34,102,28,128,26,158,29,174,36,172,41,157,34,128,31,103,33,88,38,82,44,85,51"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1interpolation_1_1factory_1_1GoInterpolatorWrapper.html#a0152bb9bd87f15c8ce906df8ff793f3c" title="Perform interpolation via fast binary protocol." alt="" coords="299,5,479,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,60,285,55,286,60,251,65"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1interpolation_1_1factory_1_1GoInterpolatorWrapper.html#a0db0f90966a2afeff61b9bde1d1af4c7" title="Perform interpolation via shared memory (fastest)" alt="" coords="299,84,479,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="208,90,286,102,285,107,207,95"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="299,40,219,53,218,48,298,35"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="298,92,264,86,264,81,299,87"/>
+</map>

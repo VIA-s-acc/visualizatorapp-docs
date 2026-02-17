@@ -1,0 +1,6 @@
+<map id="src.ui.components.viewer_3d.Viewer3D.update_grid" name="src.ui.components.viewer_3d.Viewer3D.update_grid">
+<area shape="rect" id="Node000001" title="Update grid display with custom settings." alt="" coords="5,29,199,69"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a335f130397eb52ecd9948b93dc30de4d" title="Remove a named actor from the plotter." alt="" coords="247,29,453,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,47,233,47,233,52,199,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="304,30,301,20,309,10,325,5,350,3,379,6,395,13,392,18,377,11,350,8,326,10,312,15,306,21,309,28"/>
+</map>

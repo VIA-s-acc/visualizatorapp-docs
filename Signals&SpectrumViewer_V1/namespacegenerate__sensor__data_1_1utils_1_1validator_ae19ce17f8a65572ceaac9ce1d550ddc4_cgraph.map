@@ -1,0 +1,29 @@
+<map id="generate_sensor_data.utils.validator.validate_output_folder" name="generate_sensor_data.utils.validator.validate_output_folder">
+<area shape="rect" id="Node000001" title="Validate generated dataset folder." alt="" coords="5,251,321,291"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#a94475abd0e66bd3b2cebb74b24e535cf" title="Collect expected frequencies per sensor/channel from metadata ground truth." alt="" coords="369,91,632,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,249,267,195,316,166,368,141,389,133,391,138,370,146,319,171,270,200,192,253"/>
+<area shape="rect" id="Node000008" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#ad4ee3726d9ea1f1d20e55b7dbeae76c0" title="Compute dominant positive frequencies for a signal." alt="" coords="369,155,632,195"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="224,249,369,205,401,196,402,201,370,210,226,254"/>
+<area shape="rect" id="Node000009" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#aa2e66b3c07fd01fb7d84d4478f1d143b" title="Check whether expected frequency exists in detected peaks within tolerance." alt="" coords="369,219,632,259"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="321,254,355,250,356,256,322,259"/>
+<area shape="rect" id="Node000010" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#a22fa99528bf606d3de3f8ed26247176e" title="Extract sample rate from metadata with safe fallback." alt="" coords="369,283,632,323"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="322,284,356,287,355,292,321,289"/>
+<area shape="rect" id="Node000011" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#af848087977aa2db4e506a1ed634127b3" title="Resolve channel names for current CSV file." alt="" coords="369,347,632,387"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="226,289,370,333,402,341,401,347,369,338,224,294"/>
+<area shape="rect" id="Node000012" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#a17bf519a09649a896b8dba214eb31a9b" title="Check whether all values in row are numeric." alt="" coords="369,411,632,451"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="192,290,270,343,319,372,370,397,391,405,389,410,368,402,316,377,267,347,189,294"/>
+<area shape="rect" id="Node000003" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#a58a5d1d16cff7259ca9b4bf8c3dc5a99" title="Extract expected frequencies from one component descriptor." alt="" coords="680,34,943,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="609,89,689,74,690,79,610,94"/>
+<area shape="rect" id="Node000004" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#a5582cb7ae6652dd59c2f0d28e923ec2b" title="Append expected frequency to nested expected&#45;frequency map." alt="" coords="991,18,1253,58"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="530,89,596,51,637,33,679,19,761,6,845,3,925,6,998,14,997,19,925,11,845,8,762,12,681,25,639,38,598,56,533,94"/>
+<area shape="rect" id="Node000005" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#aac96041936cbc79bcc8610f43fd17607" title="Convert arbitrary value to positive finite float or None." alt="" coords="991,107,1253,147"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="632,112,976,121,976,126,632,117"/>
+<area shape="rect" id="Node000006" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#a62b26b10b4c8a88033187673a35390d7" title="Log burst event timing checks for troubleshooting." alt="" coords="680,149,943,189"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="610,129,690,144,689,149,609,134"/>
+<area shape="rect" id="Node000007" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#ae8e76c7e897e02c90332073eee445ca5" title="Log regime change timing checks for troubleshooting." alt="" coords="680,213,943,253"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="610,129,634,141,650,156,658,171,667,185,682,199,692,205,690,209,678,203,662,188,654,173,645,159,630,146,607,134"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="943,45,977,43,977,48,943,50"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="897,71,1024,102,1023,107,896,77"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="942,149,977,144,977,149,943,154"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="901,210,942,198,1064,150,1066,155,944,203,902,215"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="signal_spectrum_utility.async_recompute.compute_windows_job" name="signal_spectrum_utility.async_recompute.compute_windows_job">
+<area shape="rect" id="Node000001" title="Compute segmentation windows in background thread." alt="" coords="5,41,256,81"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1async__recompute.html#a5cc7c2b706be1bd0c727fcc472468e21" title="_fallback_windows function." alt="" coords="304,5,531,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,43,290,39,291,44,256,48"/>
+<area shape="rect" id="Node000003" href="$namespacesignal__spectrum__utility_1_1async__recompute.html#ad43ef7ed24deae445a0bb97e737dfb62" title="Estimate segmentation parameters from selected signal data." alt="" coords="308,70,527,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,74,294,79,294,85,256,80"/>
+</map>

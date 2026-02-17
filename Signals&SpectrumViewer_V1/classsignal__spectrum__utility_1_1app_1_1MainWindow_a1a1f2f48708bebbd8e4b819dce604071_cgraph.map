@@ -1,0 +1,15 @@
+<map id="signal_spectrum_utility.app.MainWindow._recalculate_range_metrics" name="signal_spectrum_utility.app.MainWindow._recalculate_range_metrics">
+<area shape="rect" id="Node000001" title="Recompute range metrics and refresh comparison tables." alt="" coords="5,45,209,100"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2f02c1eb5966b58336d4efafa647b742" title="Apply pairwise metric visibility filters to comparison table columns." alt="" coords="263,5,478,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,55,249,48,250,54,210,60"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a286cb8eaba003b0404efe895954d3035" title="Return currently selected spectrum source for metrics." alt="" coords="257,84,484,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,85,244,90,243,95,209,90"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a588a045f5bda98e3e53a2d60da6aa778" title="Build an averaged spectrum across all currently available spectra." alt="" coords="532,84,740,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="484,109,518,109,518,114,484,114"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="800,59,1004,99"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="465,81,532,69,597,63,664,61,786,66,786,71,664,67,597,68,532,74,466,87"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="788,123,1016,163"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="466,136,532,149,656,156,774,152,774,158,656,161,532,154,465,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="740,96,786,91,787,96,741,101"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="741,121,775,125,774,131,740,126"/>
+</map>

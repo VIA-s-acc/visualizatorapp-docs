@@ -1,0 +1,9 @@
+<map id="src.ui.utils.config_manager.ConfigManager.get" name="src.ui.utils.config_manager.ConfigManager.get">
+<area shape="rect" id="Node000001" title="Get configuration value." alt="" coords="268,91,480,131"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1utils_1_1config__manager_1_1ConfigManager.html#afb96243f7cbab169b234074409c06694" title="Add file to recent files list." alt="" coords="5,5,220,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,90,203,63,205,58,294,85"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1utils_1_1config__manager_1_1ConfigManager.html#afb14a68222256f5d12a4d3e281a3b80b" title="Get recent files list." alt="" coords="7,84,219,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,114,219,114,219,109,254,109"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1utils_1_1config__manager_1_1ConfigManager.html#ae8fca4e99daa66ef83391aa5cd568b3e" title="Get saved window geometry." alt="" coords="7,163,219,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,138,205,165,203,160,293,133"/>
+</map>

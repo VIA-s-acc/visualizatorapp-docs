@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._move_selected_order_down" name="signal_spectrum_utility.app.MainWindow._move_selected_order_down">
+<area shape="rect" id="Node000001" title="Move selected render&#45;order item one position down." alt="" coords="5,5,220,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac06f20660046bee87a63d74aa3c09389" title="Render selected channels on time&#45;domain plot." alt="" coords="268,13,507,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,30,254,30,254,35,220,35"/>
+</map>

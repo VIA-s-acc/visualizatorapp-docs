@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.spectrum.fft_spectrum" name="signal_spectrum_utility.spectrum.fft_spectrum">
+<area shape="rect" id="Node000001" title="Compute one&#45;sided FFT amplitude spectrum." alt="" coords="5,5,260,45"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1spectrum.html#aad160edba5b687dc1513f007b1f48bf8" title="Build apodization window by name." alt="" coords="308,5,549,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,23,294,23,294,28,260,28"/>
+</map>

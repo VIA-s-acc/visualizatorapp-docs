@@ -1,0 +1,11 @@
+<map id="src.ui.components.grid_settings_widget.GridSettingsWidget.get_config" name="src.ui.components.grid_settings_widget.GridSettingsWidget.get_config">
+<area shape="rect" id="Node000001" title="Get all configuration as dictionary." alt="" coords="5,124,221,179"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1grid__settings__widget_1_1GridSettingsWidget.html#a4682a33b2c3a22a87e1a73239b1d0e48" title="Get grid line width." alt="" coords="269,5,485,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,122,268,69,283,63,285,68,270,74,165,126"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1grid__settings__widget_1_1GridSettingsWidget.html#ae2b2642fee91aee8e0250bd081b17c07" title="Get X axis grid density." alt="" coords="269,84,485,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,132,255,127,256,132,222,138"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1grid__settings__widget_1_1GridSettingsWidget.html#a533dd7b96415edf83b3a92124f3b9677" title="Get Y axis grid density." alt="" coords="269,163,485,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,164,256,170,255,175,221,170"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1grid__settings__widget_1_1GridSettingsWidget.html#a99de829805d6c9b33c0ae2f9994a3cb7" title="Get Z axis grid density." alt="" coords="269,241,485,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="167,176,270,226,288,234,286,239,268,231,165,181"/>
+</map>

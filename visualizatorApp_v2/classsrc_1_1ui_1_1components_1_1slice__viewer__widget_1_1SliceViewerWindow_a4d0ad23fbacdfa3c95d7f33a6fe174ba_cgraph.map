@@ -1,0 +1,11 @@
+<map id="src.ui.components.slice_viewer_widget.SliceViewerWindow.toggle_main_view" name="src.ui.components.slice_viewer_widget.SliceViewerWindow.toggle_main_view">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,305,60"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a92e2ac487ed4431ca172b7636a3b9513" title=" " alt="" coords="999,23,1257,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,23,353,22,652,21,951,35,985,37,985,43,951,41,652,26,353,27,305,29"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a18cd859c02e1bfc754698302c9fdaa15" title=" " alt="" coords="353,37,644,92"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="306,44,340,47,339,53,305,49"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="644,59,985,51,985,56,644,64"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerWindow.html#a7b49565f27f20abf3328b4dbf013254a" title=" " alt="" coords="692,88,951,143"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="645,85,679,90,678,96,644,90"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="950,85,985,78,987,83,951,91"/>
+</map>

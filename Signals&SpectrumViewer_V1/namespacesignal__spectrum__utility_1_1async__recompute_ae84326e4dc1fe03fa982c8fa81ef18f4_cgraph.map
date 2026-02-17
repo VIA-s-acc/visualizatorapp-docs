@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.async_recompute.compute_spectra_job" name="signal_spectrum_utility.async_recompute.compute_spectra_job">
+<area shape="rect" id="Node000001" title="Compute spectra in background thread." alt="" coords="5,13,248,53"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1async__recompute.html#a32c0ed589b2fd88b94d38e1924012db7" title="_compute_transform_spectrum function." alt="" coords="296,5,535,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,30,282,30,282,35,248,35"/>
+</map>

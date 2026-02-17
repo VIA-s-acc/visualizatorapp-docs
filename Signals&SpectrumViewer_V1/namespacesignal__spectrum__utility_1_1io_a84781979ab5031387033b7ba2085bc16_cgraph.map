@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.io.load_sensor_folder" name="signal_spectrum_utility.io.load_sensor_folder">
+<area shape="rect" id="Node000001" title="Load all CSV files from a directory." alt="" coords="5,5,225,45"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1io.html#a4da358a9bdc5d7706efd33306b77e802" title="Read channels mapping from channels.txt." alt="" coords="273,5,465,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,23,260,23,260,28,225,28"/>
+</map>

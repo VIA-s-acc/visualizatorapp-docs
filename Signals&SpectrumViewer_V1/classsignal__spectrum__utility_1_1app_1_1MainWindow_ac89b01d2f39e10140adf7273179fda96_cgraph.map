@@ -1,0 +1,13 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_debounced_recompute_timeout" name="signal_spectrum_utility.app.MainWindow._on_debounced_recompute_timeout">
+<area shape="rect" id="Node000001" title="Trigger debounced non&#45;blocking recompute." alt="" coords="5,94,216,149"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#adadb3a72d485d8bdfe6e7275f8345d73" title="Compute windows using non&#45;blocking background worker." alt="" coords="264,101,501,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,119,250,119,250,124,216,124"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a4e887577fb3887987a62f0791f7ac736" title="Check whether segmentation parameters should be auto&#45;estimated." alt="" coords="549,5,805,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,99,548,55,577,46,578,51,550,60,432,104"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad28d6d9ffd1fa9a84ab08be163a90f3c" title="Resolve selected UI entries into sensor/channel pairs." alt="" coords="559,69,795,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="501,106,545,101,546,106,502,111"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="575,133,779,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="502,132,562,138,561,143,501,137"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="563,197,791,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="432,139,550,183,578,191,577,196,548,188,430,144"/>
+</map>

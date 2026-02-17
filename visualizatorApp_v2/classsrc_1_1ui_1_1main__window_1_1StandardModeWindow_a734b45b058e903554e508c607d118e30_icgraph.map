@@ -1,0 +1,40 @@
+<map id="src.ui.main_window.StandardModeWindow._show_progress" name="src.ui.main_window.StandardModeWindow._show_progress">
+<area shape="rect" id="Node000001" title="Show/hide progress bar." alt="" coords="581,627,799,667"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a53a5605395f13eec3d568af7a555c7b8" title="Handle data load request." alt="" coords="299,5,511,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="681,614,662,494,629,331,608,250,585,175,559,114,531,73,510,57,513,52,535,70,564,112,590,173,613,248,634,330,667,493,687,613"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#acc7ad0829a4d8f21b45fd1f1b90204e3" title="Handle data load request." alt="" coords="297,84,512,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="686,614,679,522,670,463,657,398,637,332,611,267,576,206,531,152,511,136,514,132,535,148,580,203,616,264,642,330,662,397,676,462,684,522,691,613"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a328b7add0119bb514aee1efb54904ee7" title="Handle detection error." alt="" coords="297,163,512,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="683,614,672,536,647,432,627,378,602,324,570,274,532,231,511,216,514,211,535,227,574,271,607,322,632,376,652,431,678,535,689,613"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a7c137a3e5277c387a9aad10fb6d5db96" title="Handle successful detection." alt="" coords="297,241,512,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="680,615,665,550,636,468,617,424,593,382,565,343,532,309,511,295,514,291,535,305,569,340,597,380,622,422,641,466,670,548,685,613"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#ab51f04bef3797ca9f97970d94662f033" title="Handle movement detection request." alt="" coords="297,320,512,375"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="675,615,655,565,625,504,584,442,559,414,532,389,511,376,514,372,535,385,563,410,588,439,629,502,660,563,680,613"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a6e827f4646cca67d8f2fc72e370bfbf1" title="Handle export error." alt="" coords="293,399,516,439"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="670,616,647,578,616,534,577,490,532,454,509,442,512,437,535,449,581,486,620,531,651,575,674,614"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#afa80c328deeca0917bce52dba257ef28" title="Handle successful export." alt="" coords="283,463,526,503"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="659,619,604,567,569,540,532,518,504,506,506,501,535,513,572,536,607,563,663,615"/>
+<area shape="rect" id="Node000009" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a4aa2e07de95b57f16c581d8ead473b7b" title="Handle export request." alt="" coords="276,527,533,567"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="635,624,532,582,493,570,495,565,534,577,637,619"/>
+<area shape="rect" id="Node000010" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a53fcd9b9b6568d98542548910eb33800" title="Handle interpolation error." alt="" coords="295,591,514,631"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="567,635,514,628,515,622,568,629"/>
+<area shape="rect" id="Node000011" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#ab6fb815fb0695ef90df33f2e402190eb" title="Handle interpolation error." alt="" coords="297,656,512,711"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="568,665,513,672,512,667,567,660"/>
+<area shape="rect" id="Node000012" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#aee6c4059824793b5374ce177beb9f889" title="Handle interpolated data load request." alt="" coords="5,755,228,809"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="644,676,592,702,534,725,456,745,375,760,229,778,228,773,375,755,455,740,533,719,590,697,642,672"/>
+<area shape="rect" id="Node000013" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a97a38ef87b823be7b9d739f32fd675b6" title="Handle successful interpolation." alt="" coords="291,787,518,841"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="658,679,603,725,535,770,493,789,491,784,532,765,600,720,655,675"/>
+<area shape="rect" id="Node000014" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#adcad8453b73cf86e71d2f1ca7e4a10ac" title="Handle interpolation request." alt="" coords="291,865,518,920"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="675,681,652,721,620,768,581,815,535,855,513,867,511,863,532,851,577,811,616,764,647,718,670,679"/>
+<area shape="rect" id="Node000015" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a2aace2aa8df40c742f99e6268ed66481" title="Handle interpolation request." alt="" coords="297,944,512,999"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="682,681,663,736,633,804,591,873,565,905,535,933,514,947,511,943,532,929,561,902,586,870,628,801,658,734,677,680"/>
+<area shape="rect" id="Node000016" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a7bea2a95a0f398a6e297fcb862c11837" title="Handle load error." alt="" coords="299,1023,511,1063"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="687,681,673,751,646,840,626,887,601,933,571,975,535,1012,512,1027,509,1022,532,1008,567,972,596,930,621,885,641,838,668,749,682,680"/>
+<area shape="rect" id="Node000017" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a7e7f37b62fe158fce766b435b58c0578" title="Handle load error." alt="" coords="297,1088,512,1143"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="689,682,678,762,653,868,633,924,607,980,575,1032,535,1077,514,1093,511,1088,532,1073,571,1028,603,977,628,922,648,866,673,761,684,681"/>
+<area shape="rect" id="Node000018" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a874068101d0af2f3e0efc17630c31043" title="Handle merge error." alt="" coords="297,1167,512,1221"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="691,681,685,774,676,835,663,901,643,970,616,1037,581,1100,535,1156,514,1172,511,1168,531,1152,576,1097,611,1035,638,968,658,900,671,834,680,774,686,681"/>
+<area shape="rect" id="Node000019" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a7361b015d3748d7726b1fcf35622c1d8" title="Handle merge request." alt="" coords="297,1245,512,1300"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="687,682,667,804,635,969,614,1053,590,1129,564,1191,535,1234,514,1251,511,1247,531,1231,559,1189,585,1127,609,1051,629,968,662,803,681,681"/>
+<area shape="poly" id="edge13_Node000013_Node000012" title=" " alt="" coords="277,803,228,797,229,792,278,797"/>
+</map>

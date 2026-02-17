@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_offset_signal_changed" name="signal_spectrum_utility.app.MainWindow._on_offset_signal_changed">
+<area shape="rect" id="Node000001" title="Load offsets of currently selected signal into editor controls." alt="" coords="5,5,228,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#accf96e1cd1ca9feff48db63045e0d8ce" title="Get currently selected signal key in offset editor." alt="" coords="276,13,512,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,30,262,30,262,35,228,35"/>
+</map>

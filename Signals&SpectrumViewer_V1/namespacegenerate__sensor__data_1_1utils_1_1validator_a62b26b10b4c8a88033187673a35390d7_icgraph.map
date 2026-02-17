@@ -1,0 +1,7 @@
+<map id="generate_sensor_data.utils.validator._validate_burst_event_bounds" name="generate_sensor_data.utils.validator._validate_burst_event_bounds">
+<area shape="rect" id="Node000001" title="Log burst event timing checks for troubleshooting." alt="" coords="680,5,943,45"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#a94475abd0e66bd3b2cebb74b24e535cf" title="Collect expected frequencies per sensor/channel from metadata ground truth." alt="" coords="369,5,632,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="666,28,632,28,632,23,666,23"/>
+<area shape="rect" id="Node000003" href="$namespacegenerate__sensor__data_1_1utils_1_1validator.html#ae19ce17f8a65572ceaac9ce1d550ddc4" title="Validate generated dataset folder." alt="" coords="5,5,321,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,28,321,28,321,23,355,23"/>
+</map>

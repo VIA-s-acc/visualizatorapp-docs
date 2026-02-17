@@ -1,0 +1,7 @@
+<map id="src.ui.profile_mode_window.ProfileModeWindow._on_interp_error" name="src.ui.profile_mode_window.ProfileModeWindow._on_interp_error">
+<area shape="rect" id="Node000001" title="Handle interpolation error." alt="" coords="5,34,220,89"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a734b45b058e903554e508c607d118e30" title="Show/hide progress bar." alt="" coords="268,5,485,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,44,254,39,255,45,221,49"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a7bfeabecd2cc00b554946e7454d95502" title="Show/hide progress bar." alt="" coords="269,70,484,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,73,256,78,255,84,220,79"/>
+</map>

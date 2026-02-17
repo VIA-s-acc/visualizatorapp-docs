@@ -1,0 +1,5 @@
+<map id="src.ui.main_window.StandardModeWindow._plot_isosurface_from_grid" name="src.ui.main_window.StandardModeWindow._plot_isosurface_from_grid">
+<area shape="rect" id="Node000001" title="Plot isosurface from interpolated 3D grid using proper contouring." alt="" coords="265,5,484,60"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#ae226cf969f27b21a7c975140802c0056" title="Handle isosurface build request." alt="" coords="5,5,217,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,35,218,35,218,30,251,30"/>
+</map>

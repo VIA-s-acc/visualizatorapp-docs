@@ -1,0 +1,20 @@
+<map id="signal_spectrum_utility.app.MainWindow._clear_window_overlays" name="signal_spectrum_utility.app.MainWindow._clear_window_overlays">
+<area shape="rect" id="Node000001" title="Remove current window overlay items from signal plot." alt="" coords="897,121,1103,175"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a882eb62e98e8acc81ad7ff5a8fb2a6cf" title="Render window overlays in signal plot." alt="" coords="635,121,849,175"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="883,151,850,151,850,145,883,145"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a460af90d4852961e41ccb6863ef63786" title="Create and append one manual window from start/end markers." alt="" coords="317,5,570,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="684,116,637,90,586,66,530,48,532,43,588,62,639,85,686,111"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="27,96,231,136"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="637,120,586,111,493,103,398,101,231,109,231,103,398,96,493,97,587,105,638,115"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a890c9d710dbbb7edc572966603fd5ebb" title="Clear all manual windows and overlays when in manual mode." alt="" coords="341,121,545,175"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="621,151,546,151,546,145,621,145"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a978bb5d46cde29969d5a302bcac34c40" title="Toggle manual marker visibility and align method state." alt="" coords="327,199,559,254"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="625,181,549,202,547,197,624,176"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7f63297576dc3d0262d9fc04e28d1f17" title="Apply segmentation worker result if it is the latest version." alt="" coords="300,279,587,319"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="705,187,652,230,588,269,557,281,555,276,585,264,649,226,701,183"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="354,52,301,67,195,98,193,93,299,61,353,46"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="327,139,231,129,231,124,328,134"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="325,198,299,189,173,139,175,134,301,184,327,193"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a27f06761cfc12c66f78788829b8565c8" title="Route segmentation completion from worker thread into UI thread." alt="" coords="5,271,252,326"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="286,301,252,301,252,296,286,296"/>
+</map>

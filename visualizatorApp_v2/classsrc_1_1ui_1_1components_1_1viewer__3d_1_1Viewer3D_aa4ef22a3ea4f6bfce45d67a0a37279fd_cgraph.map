@@ -1,0 +1,27 @@
+<map id="src.ui.components.viewer_3d.Viewer3D.plot_surface" name="src.ui.components.viewer_3d.Viewer3D.plot_surface">
+<area shape="rect" id="Node000001" title="Plot surface." alt="" coords="5,269,201,309"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1core_1_1interfaces_1_1IVisualizationBackend.html#a88de896b4459d7b2b65c25068c8dfea6" title="Clear the current plot." alt="" coords="274,5,509,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,268,126,223,155,165,195,106,220,78,248,55,260,47,263,52,251,59,224,82,199,109,159,168,131,226,114,270"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a8861e5dea177bb1729599af976cfc332" title="Clear current data." alt="" coords="249,93,533,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,267,170,205,207,171,248,143,262,136,264,141,251,148,210,176,173,209,121,271"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#aaf0653d015bf45c86b4ad3cab0488b57" title="Clear all plots." alt="" coords="297,181,486,221"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="151,267,249,231,283,221,284,226,250,236,153,272"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#ab0d10b88d2e99797265cedbb8c51e073" title="Clear the current plot." alt="" coords="259,269,523,309"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="202,287,245,287,245,292,202,292"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#ae16bdd8aef5a3f8d5966164fab322e1b" title="Clear the current plot." alt="" coords="274,333,509,373"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="195,307,288,328,287,333,194,312"/>
+<area shape="rect" id="Node000009" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#a1b12386c1e1cfe72db840d765933a333" title="Clear the current plot." alt="" coords="269,421,514,461"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="133,307,186,344,251,383,320,414,318,419,248,388,183,349,130,312"/>
+<area shape="rect" id="Node000010" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a002a159383b2b7f9d39df167d99c8e79" title="Reset camera to default view." alt="" coords="289,509,494,549"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="118,308,169,387,207,432,251,471,278,488,307,502,305,507,275,493,248,475,203,435,165,390,114,311"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="339,94,336,84,344,74,363,69,391,67,424,69,442,77,440,82,423,75,391,72,364,74,347,79,341,85,344,92"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="339,182,336,172,344,162,363,157,391,155,424,157,442,165,440,170,423,163,391,160,364,162,347,167,341,173,344,180"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a052af1f70b0199c2fe66bae174e68efa" title="Initialize plotter with default settings." alt="" coords="581,174,771,229"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="486,199,568,199,568,204,486,204"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a300e3b3722af958ae715235631103d73" title="Set background color." alt="" coords="819,181,1037,221"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="771,199,805,199,805,204,771,204"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="881,182,879,172,886,162,903,157,928,155,957,158,973,165,971,170,956,163,928,160,904,162,889,167,884,173,886,180"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="339,270,336,260,344,250,363,245,391,243,424,245,442,253,440,258,423,251,391,248,364,250,347,255,341,261,344,268"/>
+<area shape="poly" id="edge13_Node000009_Node000009" title=" " alt="" coords="339,422,336,412,344,402,363,397,391,395,424,397,442,405,440,410,423,403,391,400,364,402,347,407,341,413,344,420"/>
+<area shape="poly" id="edge15_Node000010_Node000010" title=" " alt="" coords="339,510,336,500,344,490,363,485,391,483,424,485,442,493,440,498,423,491,391,488,364,490,347,495,341,501,344,508"/>
+</map>

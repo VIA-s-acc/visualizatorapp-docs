@@ -1,0 +1,11 @@
+<map id="src.ui.main_window.StandardModeWindow._on_isosurface_build_requested" name="src.ui.main_window.StandardModeWindow._on_isosurface_build_requested">
+<area shape="rect" id="Node000001" title="Handle isosurface build request." alt="" coords="5,49,217,103"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="533,5,745,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,46,265,33,396,22,520,19,520,25,397,27,266,39,204,51"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="532,85,747,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,101,266,113,330,119,396,122,518,119,519,124,396,127,330,125,265,119,201,106"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a40cb5afcd7b1171eeab49deb5fc1a3b8" title="Plot isosurface from interpolated 3D grid using proper contouring." alt="" coords="265,49,484,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,73,252,73,252,79,218,79"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="484,52,521,45,522,51,485,58"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="484,88,519,93,518,98,484,93"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._clear_manual_windows" name="signal_spectrum_utility.app.MainWindow._clear_manual_windows">
+<area shape="rect" id="Node000001" title="Clear all manual windows and overlays when in manual mode." alt="" coords="257,5,461,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="5,13,209,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,35,210,35,210,30,244,30"/>
+</map>

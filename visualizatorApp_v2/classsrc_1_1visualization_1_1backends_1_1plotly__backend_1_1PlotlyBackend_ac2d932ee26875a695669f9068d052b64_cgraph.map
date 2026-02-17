@@ -1,0 +1,11 @@
+<map id="src.visualization.backends.plotly_backend.PlotlyBackend.plot_slice" name="src.visualization.backends.plotly_backend.PlotlyBackend.plot_slice">
+<area shape="rect" id="Node000001" title="Display 2D slice of 3D grid." alt="" coords="5,101,251,141"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1core_1_1interfaces_1_1IVisualizationBackend.html#a1f86ea0bac551d75cbb391878b182342" title="Initialize the visualization backend." alt="" coords="315,5,550,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,99,298,55,328,46,330,51,299,60,179,104"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#a1606117de501ae2ff0297781819ec7eb" title="Initialize the Matplotlib figure." alt="" coords="299,69,567,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,106,285,102,285,108,251,111"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#a88bd66ce6908950fd53e80331f0fe42f" title="Initialize the Plotly figure." alt="" coords="313,133,552,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,132,300,137,299,142,251,137"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#abf36206d932f91f83c0df111f5d4f9d5" title="Initialize the PyVista plotter." alt="" coords="307,197,558,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="179,139,299,183,330,191,328,197,298,188,177,144"/>
+</map>

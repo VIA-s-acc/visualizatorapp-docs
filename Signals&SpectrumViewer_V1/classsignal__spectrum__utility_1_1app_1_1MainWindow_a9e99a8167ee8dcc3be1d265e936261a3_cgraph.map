@@ -1,0 +1,28 @@
+<map id="signal_spectrum_utility.app.MainWindow._open_settings_dialog" name="signal_spectrum_utility.app.MainWindow._open_settings_dialog">
+<area shape="rect" id="Node000001" title="Open settings dialog and apply changes when accepted." alt="" coords="5,193,260,233"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a673156e36526981c754fa9c9256f901b" title="Apply current settings object to runtime UI/behavior." alt="" coords="317,5,527,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,190,218,131,261,98,307,69,317,64,320,68,309,74,264,103,221,135,156,194"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aa9629af4838d446c02f9a48cc1f4747b" title="Apply channel selection mapping to tree checkboxes." alt="" coords="315,84,529,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,190,329,141,331,146,192,195"/>
+<area shape="rect" id="Node000010" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ab6ebbe72abb04f1a0ad6b7fb6f9ca98a" title="Load sensor folder and refresh dependent UI state." alt="" coords="309,163,535,203"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="260,197,296,193,296,199,260,202"/>
+<area shape="rect" id="Node000011" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#add50ae59bcf60e4dfb9d6889110a8b94" title="Collect currently checked channels grouped by sensor." alt="" coords="589,213,818,268"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="260,216,575,232,575,237,260,222"/>
+<area shape="rect" id="Node000012" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="320,278,524,318"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="202,230,341,271,339,277,200,235"/>
+<area shape="rect" id="Node000013" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="308,342,536,382"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="160,231,225,279,266,305,309,328,327,335,325,340,307,332,264,309,222,283,157,235"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac06f20660046bee87a63d74aa3c09389" title="Render selected channels on time&#45;domain plot." alt="" coords="584,70,823,110"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="529,101,570,97,570,103,530,106"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ae69aa7910bd736021d85c5eba2e06222" title="Synchronize render&#45;order list with currently checked channels." alt="" coords="596,135,811,189"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="530,128,583,138,582,143,529,133"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9e055c72cfd9eb1cd4cf22e8f55e5436" title="Collect checked channel keys in tree traversal order." alt="" coords="871,217,1135,257"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="812,186,909,211,908,216,810,191"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a5c82de009b1bbc2ddb273d27ab19023f" title="Refresh offset target selector from current render order." alt="" coords="899,135,1106,189"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="811,159,886,159,886,165,811,165"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a486ddfbedb519908c2b570b8081bdb90" title="Load offsets of currently selected signal into editor controls." alt="" coords="1183,135,1405,189"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1106,159,1169,159,1169,165,1106,165"/>
+<area shape="rect" id="Node000009" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#accf96e1cd1ca9feff48db63045e0d8ce" title="Get currently selected signal key in offset editor." alt="" coords="1453,142,1689,182"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1405,159,1440,159,1440,165,1405,165"/>
+<area shape="poly" id="edge11_Node000011_Node000006" title=" " alt="" coords="818,236,857,236,857,241,818,242"/>
+</map>

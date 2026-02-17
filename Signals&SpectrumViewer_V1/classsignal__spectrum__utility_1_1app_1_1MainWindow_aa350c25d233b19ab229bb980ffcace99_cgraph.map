@@ -1,0 +1,11 @@
+<map id="signal_spectrum_utility.app.MainWindow._export_windows_json" name="signal_spectrum_utility.app.MainWindow._export_windows_json">
+<area shape="rect" id="Node000001" title="Export current segmentation windows to JSON via toolbar action." alt="" coords="5,49,261,89"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="573,5,777,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,47,309,35,439,25,559,22,560,27,439,31,310,40,230,52"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="561,81,789,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,87,310,99,432,105,548,104,548,110,432,110,309,104,226,92"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="309,49,513,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,67,295,67,295,72,261,72"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="513,50,559,42,560,47,514,55"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="514,79,548,83,547,89,513,84"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="generate_sensor_data.generators.components.am_modulated" name="generate_sensor_data.generators.components.am_modulated">
+<area shape="rect" id="Node000001" title="Generate AM&#45;modulated signal." alt="" coords="417,5,767,45"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a65e6b0349f11361ec44ddff3eb5e255c" title="Apply one component config and return generated signal." alt="" coords="5,5,369,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,28,370,28,370,23,404,23"/>
+</map>

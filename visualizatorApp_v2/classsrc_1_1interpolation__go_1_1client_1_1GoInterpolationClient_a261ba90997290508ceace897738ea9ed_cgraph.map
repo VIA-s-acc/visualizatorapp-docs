@@ -1,0 +1,19 @@
+<map id="src.interpolation_go.client.GoInterpolationClient.__exit__" name="src.interpolation_go.client.GoInterpolationClient.__exit__">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,224,221"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1interpolation__go_1_1client_1_1GoInterpolationClient.html#a0038b8b050528a3c60c2f9d9ef8fb448" title="Close the HTTP session." alt="" coords="305,29,503,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,179,193,129,230,102,271,79,290,71,292,76,273,84,233,106,196,133,138,183"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1interpolation__go_1_1shm__client_1_1ShmInterpolationClient.html#aaddbc8d32880d9cb0d8680355c69e16a" title=" " alt="" coords="275,93,533,133"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="167,179,271,143,301,134,303,139,273,148,168,184"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#a7819b1a97ea22194e8b243115389fcf2" title="Close the figure." alt="" coords="272,181,536,221"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="224,199,258,199,258,204,224,204"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#adbed48840335f2f5ef1eb9f1ad104af9" title="Close the figure." alt="" coords="287,245,521,285"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="206,219,300,240,299,245,205,224"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#a82da120f2ed56d3ab30796a81b08e6a9" title="Close the plotter." alt="" coords="281,333,527,373"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="147,219,205,256,273,295,340,326,338,331,271,300,202,260,144,224"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="351,30,348,20,356,10,375,5,404,3,437,5,455,13,453,18,436,11,404,8,376,10,359,15,353,21,356,28"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1interpolation__go_1_1shm__client_1_1ShmInterpolationClient.html#aa90b763bfe2eaa0a70633b9db6af1907" title=" " alt="" coords="584,86,807,141"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="533,120,571,120,571,125,533,125"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="584,107,546,107,546,102,584,102"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="351,182,348,172,356,162,375,157,404,155,437,157,455,165,453,170,436,163,404,160,376,162,359,167,353,173,356,180"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="351,334,348,324,356,314,375,309,404,307,437,309,455,317,453,322,436,315,404,312,376,314,359,319,353,325,356,332"/>
+</map>

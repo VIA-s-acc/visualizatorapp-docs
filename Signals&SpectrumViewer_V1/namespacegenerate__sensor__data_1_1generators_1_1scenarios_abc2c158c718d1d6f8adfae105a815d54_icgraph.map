@@ -1,0 +1,10 @@
+<map id="generate_sensor_data.generators.scenarios._base_sensor" name="generate_sensor_data.generators.scenarios._base_sensor">
+<area shape="rect" id="Node000001" title="Construct base sensor object with repeated channel components." alt="" coords="755,37,1065,77"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#afdaaf12a1e8041e2deef1d7eb16c975a" title="_events function." alt="" coords="396,5,707,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="741,45,707,42,707,37,741,40"/>
+<area shape="rect" id="Node000004" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#a1a24a9e81cde26619c38b7d3ad502fdc" title="_stationary function." alt="" coords="396,69,707,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="741,75,707,78,707,73,741,70"/>
+<area shape="rect" id="Node000003" href="$namespacegenerate__sensor__data_1_1generators_1_1scenarios.html#aaa86bdb53b90da049f943da4e3f1b8cc" title="Build a default scenario configuration." alt="" coords="5,37,348,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,42,349,45,348,40,382,37"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="382,78,348,75,349,69,382,72"/>
+</map>

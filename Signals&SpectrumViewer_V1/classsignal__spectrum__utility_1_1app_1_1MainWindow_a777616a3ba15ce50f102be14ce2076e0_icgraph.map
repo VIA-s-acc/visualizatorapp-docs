@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_spectrum_worker_done" name="signal_spectrum_utility.app.MainWindow._on_spectrum_worker_done">
+<area shape="rect" id="Node000001" title="Apply spectrum worker result if it is the latest version." alt="" coords="257,5,461,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a61eaa0ccad406a23975b462252e52a6d" title="Route spectrum completion from worker thread into UI thread." alt="" coords="5,5,209,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,35,210,35,210,30,244,30"/>
+</map>

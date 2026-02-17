@@ -1,0 +1,5 @@
+<map id="generate_sensor_data.generators.components.noise_brown" name="generate_sensor_data.generators.components.noise_brown">
+<area shape="rect" id="Node000001" title="Generate brown noise by integrating white noise." alt="" coords="417,5,780,45"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a65e6b0349f11361ec44ddff3eb5e255c" title="Apply one component config and return generated signal." alt="" coords="5,5,369,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,28,370,28,370,23,403,23"/>
+</map>

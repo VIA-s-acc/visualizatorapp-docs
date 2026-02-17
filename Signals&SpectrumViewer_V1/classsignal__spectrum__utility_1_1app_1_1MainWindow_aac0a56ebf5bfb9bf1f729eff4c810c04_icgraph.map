@@ -1,0 +1,13 @@
+<map id="signal_spectrum_utility.app.MainWindow._current_render_order_keys" name="signal_spectrum_utility.app.MainWindow._current_render_order_keys">
+<area shape="rect" id="Node000001" title="Return current render&#45;order keys from list widget in visual order." alt="" coords="509,84,720,139"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a64ee5cb7933f7db053997be000333aab" title="Apply externally provided render order for currently selected channels." alt="" coords="257,5,461,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,82,448,63,450,58,513,77"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aaafde4c5bf403a948213878525451ef0" title="Handle drag&amp;drop reorder completion for render&#45;order list." alt="" coords="257,84,461,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="496,114,461,114,461,109,496,109"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ae174397683a7c995ee6769808016056c" title="Save current UI state to a session JSON file." alt="" coords="257,163,461,217"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="513,145,450,165,448,160,512,140"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a993b0ea8b7f44df0a841fbe17477af0e" title="Load UI state from a session JSON file." alt="" coords="5,5,209,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,35,210,35,210,30,244,30"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="5,91,209,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="244,114,210,114,210,109,244,109"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="src.ui.components.visualization_widget.VisualizationSection._on_range_group_toggled" name="src.ui.components.visualization_widget.VisualizationSection._on_range_group_toggled">
+<area shape="rect" id="Node000001" title="Handle range group checkbox toggle." alt="" coords="5,84,233,139"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#a8aea82053459f5595eb1009a47353617" title="Emit update request signal." alt="" coords="281,84,509,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,109,268,109,268,114,233,114"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#a891b4e7208642357d931119980b4b515" title="Get coordinate display settings." alt="" coords="557,5,792,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,81,563,61,565,66,494,86"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#afce5021fa1f51e1390ad3517960dd606" title="Get grid settings configuration." alt="" coords="557,84,792,139"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="510,109,544,109,544,114,510,114"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#a233dd26406cc0332dde81de89fd907a4" title="Get value range configuration." alt="" coords="557,163,792,217"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="494,136,565,156,563,161,492,141"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#a689fbbedf6876f5a96e45013e386c390" title="Get visualization configuration." alt="" coords="840,53,1120,93"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="793,45,826,50,826,55,792,51"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="792,94,826,90,826,95,792,99"/>
+</map>

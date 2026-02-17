@@ -1,0 +1,7 @@
+<map id="signal_spectrum_utility.app.MainWindow._apply_selected_channel_mapping" name="signal_spectrum_utility.app.MainWindow._apply_selected_channel_mapping">
+<area shape="rect" id="Node000001" title="Apply channel selection mapping to tree checkboxes." alt="" coords="308,41,523,96"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a993b0ea8b7f44df0a841fbe17477af0e" title="Load UI state from a session JSON file." alt="" coords="31,5,235,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,56,235,48,235,43,295,51"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9e99a8167ee8dcc3be1d265e936261a3" title="Open settings dialog and apply changes when accepted." alt="" coords="5,85,260,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,87,261,91,260,86,294,81"/>
+</map>

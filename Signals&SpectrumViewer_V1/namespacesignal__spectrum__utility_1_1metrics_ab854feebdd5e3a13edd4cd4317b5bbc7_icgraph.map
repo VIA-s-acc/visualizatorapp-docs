@@ -1,0 +1,7 @@
+<map id="signal_spectrum_utility.metrics._slice_range" name="signal_spectrum_utility.metrics._slice_range">
+<area shape="rect" id="Node000001" title="Slice frequency/amplitude arrays by selected range." alt="" coords="339,37,568,77"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1metrics.html#abb63a232ca30ce774e6cbcd9a983a2a3" title="Calculate absolute metrics for one frequency range." alt="" coords="5,5,291,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,47,291,43,291,38,325,41"/>
+<area shape="rect" id="Node000003" href="$namespacesignal__spectrum__utility_1_1metrics.html#ae7fd931bb6a06f8bc216055c7a6c54eb" title="Compute pairwise comparisons for all selected ranges." alt="" coords="6,69,290,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,73,290,77,290,72,325,68"/>
+</map>

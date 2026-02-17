@@ -1,0 +1,24 @@
+<map id="src.ui.components.interpolation_widget.InterpolationSection._setup_controls" name="src.ui.components.interpolation_widget.InterpolationSection._setup_controls">
+<area shape="rect" id="Node000001" title="Setup interpolation controls." alt="" coords="316,324,544,379"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1export__widget_1_1ExportSection.html#ab709e14eb478ef3c9dcc9888695bfa22" title="Constructor." alt="" coords="43,29,230,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="411,312,389,263,358,206,317,148,293,122,266,99,229,78,231,74,270,94,296,118,321,145,362,203,394,261,416,310"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ad9b1c69fc3e1f89be6f59d41fdde7c86" title="Constructor." alt="" coords="6,133,267,173"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="400,314,343,248,307,215,267,187,241,175,244,170,269,182,310,211,347,244,404,311"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1DetectionSection.html#a6a39746567719ab336fcd252d8357021" title="Constructor." alt="" coords="37,221,236,276"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="350,321,267,290,233,279,235,274,269,285,352,316"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1MergingSection.html#a98e630e07d83ee04a37b2ad3d8633a77" title="Constructor." alt="" coords="42,324,231,379"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="302,354,231,354,231,349,302,349"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1ProfileInterpolationSection.html#a491c7dd6ef332d94087c91b3a8d61ab9" title="Constructor." alt="" coords="7,427,267,481"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="339,386,217,429,215,424,337,381"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerSection.html#adccfd3bb1d64c9bf14ce580e3553e6c6" title="Constructor." alt="" coords="9,529,265,584"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="394,390,338,442,269,495,203,532,201,527,267,490,334,438,391,386"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#a4864668c89a80b04d3f587873e0f4fdb" title="Constructor." alt="" coords="5,633,268,673"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="414,392,390,438,358,493,318,548,270,597,238,619,204,635,202,630,235,614,266,593,314,545,354,490,386,436,409,390"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="186,19,168,11,137,8,110,10,93,15,85,21,85,29,80,29,80,19,91,10,109,5,137,3,170,6,188,14"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="187,121,169,114,137,111,108,113,91,118,84,124,88,131,83,133,79,123,88,114,107,108,137,106,171,109,189,116"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="186,211,168,203,137,200,110,202,93,207,85,213,85,221,80,221,80,211,91,202,109,197,137,195,170,198,188,206"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="186,313,168,306,137,303,110,305,93,310,85,316,85,324,80,324,80,314,91,305,109,299,137,297,170,300,188,308"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="186,416,168,408,137,405,110,407,93,412,85,419,85,427,80,427,80,416,91,407,109,402,137,400,170,403,188,411"/>
+<area shape="poly" id="edge12_Node000007_Node000007" title=" " alt="" coords="186,519,168,511,137,508,110,510,93,515,85,521,85,529,80,529,80,519,91,510,109,505,137,503,170,506,188,514"/>
+<area shape="poly" id="edge14_Node000008_Node000008" title=" " alt="" coords="187,621,169,614,137,611,108,613,91,618,84,624,88,631,83,633,79,623,88,614,107,608,137,606,171,609,189,616"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="src.ui.components.interpolation_widget.InterpolationSection.__init__" name="src.ui.components.interpolation_widget.InterpolationSection.__init__">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,249,267,289"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="80,249,76,239,85,230,105,224,136,222,171,225,191,232,189,237,170,230,136,227,106,229,88,234,81,240,85,247"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1export__widget_1_1ExportSection.html#ae9b3adff5e259037e5f3fac6e0a26051" title="Setup export controls." alt="" coords="351,5,538,60"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="148,247,174,209,211,161,259,112,313,69,338,56,340,61,316,74,262,116,215,165,178,212,152,250"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ad9bc588915edfe3df52efdabf791f6e0" title="Setup interpolation controls." alt="" coords="331,84,559,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="161,246,228,198,270,171,314,148,328,141,330,146,316,152,272,176,231,202,164,251"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1DetectionSection.html#a35f2b42b931cf78e040b7a5fe278cb19" title="Setup detection controls." alt="" coords="345,163,544,217"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="215,246,332,216,333,221,216,251"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1MergingSection.html#ab169f4467b44a4601dd88d07f2f23e71" title="Setup merge controls." alt="" coords="350,241,539,296"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="267,266,336,266,336,271,267,271"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1ProfileInterpolationSection.html#a00969cd914c5d501cc4598fdcbb6efc0" title="Setup interpolation controls." alt="" coords="315,320,575,375"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="216,286,324,314,323,319,215,291"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerSection.html#a11d82c2177e146ff7d98700ceaa36453" title=" " alt="" coords="317,399,573,453"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="165,287,231,335,316,384,333,391,331,396,313,388,228,339,161,291"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#a99ba97e2fc8cd0fa11461aa62ffab668" title="Setup visualization controls." alt="" coords="331,477,559,532"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="152,288,179,325,216,372,263,421,316,462,327,469,324,473,313,467,259,425,212,376,174,328,148,291"/>
+</map>

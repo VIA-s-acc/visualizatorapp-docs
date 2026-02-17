@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.async_recompute.estimate_window_parameters" name="signal_spectrum_utility.async_recompute.estimate_window_parameters">
+<area shape="rect" id="Node000001" title="Estimate segmentation parameters from selected signal data." alt="" coords="304,5,523,60"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1async__recompute.html#a3a84ee21899ec514f8f3b26cb1606dc7" title="Compute segmentation windows in background thread." alt="" coords="5,13,256,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,35,256,35,256,30,290,30"/>
+</map>

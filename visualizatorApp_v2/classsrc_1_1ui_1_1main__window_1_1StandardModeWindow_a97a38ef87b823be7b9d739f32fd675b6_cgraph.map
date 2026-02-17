@@ -1,0 +1,15 @@
+<map id="src.ui.main_window.StandardModeWindow._on_interpolation_finished" name="src.ui.main_window.StandardModeWindow._on_interpolation_finished">
+<area shape="rect" id="Node000001" title="Handle successful interpolation." alt="" coords="5,114,232,169"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="547,5,759,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,112,206,69,242,49,279,33,343,18,409,10,473,8,533,10,533,15,473,13,409,16,344,24,281,39,244,54,209,73,152,116"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="545,85,760,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,132,531,116,531,121,232,138"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#aaeb8e973ed2aa3e40001c188c3b5488d" title="Populate data table with InterpolationResult (technical columns style)" alt="" coords="280,49,497,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,111,266,103,267,108,233,117"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a734b45b058e903554e508c607d118e30" title="Show/hide progress bar." alt="" coords="280,179,497,219"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="233,163,281,173,280,178,232,168"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a7bfeabecd2cc00b554946e7454d95502" title="Show/hide progress bar." alt="" coords="281,243,496,298"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="166,166,281,228,298,236,296,240,279,233,164,171"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="497,53,534,45,535,51,498,58"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="498,88,532,93,531,98,497,93"/>
+</map>

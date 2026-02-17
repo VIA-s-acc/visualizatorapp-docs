@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._apply_render_order_keys" name="signal_spectrum_utility.app.MainWindow._apply_render_order_keys">
+<area shape="rect" id="Node000001" title="Apply externally provided render order for currently selected channels." alt="" coords="257,5,461,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a993b0ea8b7f44df0a841fbe17477af0e" title="Load UI state from a session JSON file." alt="" coords="5,5,209,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,35,210,35,210,30,244,30"/>
+</map>

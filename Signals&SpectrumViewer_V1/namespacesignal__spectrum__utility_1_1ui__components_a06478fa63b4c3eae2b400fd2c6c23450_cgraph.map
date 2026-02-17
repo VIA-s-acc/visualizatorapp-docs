@@ -1,0 +1,13 @@
+<map id="signal_spectrum_utility.ui_components.build_selector_panel" name="signal_spectrum_utility.ui_components.build_selector_panel">
+<area shape="rect" id="Node000001" title="Build selector and left control panel using explicit callbacks." alt="" coords="5,170,252,210"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1ui__components.html#a594ccde52caf3cba2dd0e3e9501ef8bf" title="Append a simple collapsible section and return its body layout." alt="" coords="314,5,535,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,168,216,119,257,92,299,69,312,63,315,68,301,74,259,97,219,123,155,172"/>
+<area shape="rect" id="Node000003" href="$namespacesignal__spectrum__utility_1_1ui__components.html#ae86543caa39393ca69c08ff0e2e9c25e" title="_build_offsets_section function." alt="" coords="323,84,526,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,167,310,139,311,144,205,173"/>
+<area shape="rect" id="Node000004" href="$namespacesignal__spectrum__utility_1_1ui__components.html#a9fd36fc90516ae1a1e06ce6de240cca6" title="_build_segmentation_section function." alt="" coords="300,163,549,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,187,286,187,286,193,252,193"/>
+<area shape="rect" id="Node000005" href="$namespacesignal__spectrum__utility_1_1ui__components.html#a310e19ac0fa42aef1c846ce34a418b9b" title="_build_selection_order_section function." alt="" coords="315,241,534,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="205,207,309,235,307,240,204,213"/>
+<area shape="rect" id="Node000006" href="$namespacesignal__spectrum__utility_1_1ui__components.html#a6ae56a5fb6ff9d64f2f71a074107e9a9" title="_build_spectrum_ranges_section function." alt="" coords="315,320,535,375"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="156,208,220,256,301,305,317,312,315,317,299,310,217,260,153,212"/>
+</map>

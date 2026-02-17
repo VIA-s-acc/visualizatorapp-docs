@@ -1,0 +1,27 @@
+var classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection =
+[
+    [ "__init__", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a0c3f71337112b274df15340c58169479", null ],
+    [ "_browse_file", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a145746ca3dbee3fc131ab1732280093f", null ],
+    [ "_load_data", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#ac55c6c5b6914314c413abebae6dffa24", null ],
+    [ "_load_interpolated_data", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a0c1f5ff3bc03e9f0627169c723541b28", null ],
+    [ "_on_path_changed", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a55e6c464f1dd12fb3240413abee6b37a", null ],
+    [ "_setup_data_info", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a9c513f673a8dfbcdf41450d359032166", null ],
+    [ "_setup_file_selection", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a4d3f11f7fee56f62b091e4a6368eb94c", null ],
+    [ "clear", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a8861e5dea177bb1729599af976cfc332", null ],
+    [ "get_data", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a64abe071bdf07f300bc26f8aa9b64eaa", null ],
+    [ "get_filepath", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#ab384f99d83d61c2ce48071da2d150298", null ],
+    [ "set_data", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a613027701b9a678850bd562709319afb", null ],
+    [ "_browse_button", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#aa893a6704d53752a69054c5a9b492567", null ],
+    [ "_browse_file", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a3a791d90a2443335960738fcf8b95f2f", null ],
+    [ "_current_data", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a62a4099d44a932d61aa32d1504ae63c9", null ],
+    [ "_current_filepath", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#af47786ff11252d31fa3a1530ed2131a3", null ],
+    [ "_info_text", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a9120b1576fd9153f82a375a335720216", null ],
+    [ "_load_button", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#ab8f285aacb121cfdd60f0196ae5640d4", null ],
+    [ "_load_data", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a026d7407dcf9dada0e12dcf9817d5ce0", null ],
+    [ "_load_interp_button", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#ad6cb661bbbebe2247c0d169f440db932", null ],
+    [ "_load_interpolated_data", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a7002021ccbeaa73668893ff63f19e111", null ],
+    [ "_on_path_changed", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#abb541e6ceecfe97d6c4f59de30f43836", null ],
+    [ "_path_input", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a512ec77dab3c4a8570497e61eb16d1fe", null ],
+    [ "data_loaded", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a983cc9af4f6445a7d6f3af88892c0d8e", null ],
+    [ "interpolated_data_loaded", "classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#ad69ad150f2e652f335961b485d02b968", null ]
+];

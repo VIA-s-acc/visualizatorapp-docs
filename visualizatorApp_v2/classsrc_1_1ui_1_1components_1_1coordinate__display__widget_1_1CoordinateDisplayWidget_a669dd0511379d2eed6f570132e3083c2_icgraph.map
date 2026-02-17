@@ -1,0 +1,5 @@
+<map id="src.ui.components.coordinate_display_widget.CoordinateDisplayWidget._on_settings_changed" name="src.ui.components.coordinate_display_widget.CoordinateDisplayWidget._on_settings_changed">
+<area shape="rect" id="Node000001" title="Emit settings changed signal." alt="" coords="308,5,559,60"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1coordinate__display__widget_1_1CoordinateDisplayWidget.html#a4d38cd9959483c4248dce54ebb4c81ee" title="Handle coordinate system change." alt="" coords="5,5,260,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,35,260,35,260,30,294,30"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="signal_spectrum_utility.app.MainWindow._refresh_metrics_tables_language" name="signal_spectrum_utility.app.MainWindow._refresh_metrics_tables_language">
+<area shape="rect" id="Node000001" title="Refresh metrics table headers and filter labels for current language." alt="" coords="5,30,224,85"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="284,5,488,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,42,270,36,271,42,224,47"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="272,69,500,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,68,259,72,258,77,224,73"/>
+</map>

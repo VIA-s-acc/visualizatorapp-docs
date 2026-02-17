@@ -1,0 +1,5 @@
+<map id="src.ui.workers.profile_workers.DetectionWorkerThread" name="src.ui.workers.profile_workers.DetectionWorkerThread">
+<area shape="rect" id="Node000001" title="Worker thread for movement detection." alt="" coords="5,79,243,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="85,5,163,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,44,127,79,121,79,121,44"/>
+</map>

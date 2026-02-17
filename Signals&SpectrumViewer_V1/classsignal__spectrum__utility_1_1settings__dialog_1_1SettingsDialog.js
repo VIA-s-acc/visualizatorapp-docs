@@ -1,0 +1,27 @@
+var classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog =
+[
+    [ "__init__", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a10466391b92ef4144d775089ec98554e", null ],
+    [ "_build_ui", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a04f0d947a7754f33e5277b1e678e30f1", null ],
+    [ "_tr", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69", null ],
+    [ "apply_to_settings", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a0cebe22758d833e22f0566dd4fae58a1", null ],
+    [ "_language", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#ab4d03c7649e1b283d1ed980d377ad12c", null ],
+    [ "accept", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a69e15e3c12a44194ad4430b225bd9074", null ],
+    [ "fft_size_spin", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a4e697fd9499ed10fe4295b8a7964e7ef", null ],
+    [ "language_combo", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a7f326aa8121099fe51b07cd067a7d92b", null ],
+    [ "reject", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#aaa5817708641018f6458fc4525c28dc1", null ],
+    [ "render_optimizer_checkbox", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a74d585f594c7d3cff4919593a6b09c96", null ],
+    [ "sample_rate_spin", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a9a39e1f5746bc1b54c18ea7de687a86a", null ],
+    [ "seg_changepoint_penalty_spin", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a7edb1f5e0b885fe5eca369f79e88d394", null ],
+    [ "seg_energy_threshold_spin", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a4e5a565e6b0bd8fe467bd6395fcde06c", null ],
+    [ "seg_overlap_spin", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#af45458d47ec0a9bd3bc37b80ffcbde21", null ],
+    [ "seg_window_size_spin", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a40532d8428a5d1523dbbd50c204f6632", null ],
+    [ "segmentation_method_combo", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a970dbcc0dd688f7be38ab5e8700bdf26", null ],
+    [ "segmentation_param_mode_combo", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a18c476a7a37c74bd93a2888f35c1aac8", null ],
+    [ "settings", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a866ec086b4eacb153f5d7014c446c8df", null ],
+    [ "signal_grid_checkbox", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#ae5eb6305d4b2a87ab48ea9c70b0710dc", null ],
+    [ "theme_combo", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#ad32850906b87f54684ecf3ce4c71826d", null ],
+    [ "transform_combo", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#aaea9446bf44b453935302efcde5c55f2", null ],
+    [ "window_combo", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a29cf79477b09ca6cf17050933f1dad82", null ],
+    [ "x_scale_combo", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a4c653300a62aaef15f2652e099804217", null ],
+    [ "y_scale_combo", "classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a8718f5d1d3147024f56a90e75f754c19", null ]
+];

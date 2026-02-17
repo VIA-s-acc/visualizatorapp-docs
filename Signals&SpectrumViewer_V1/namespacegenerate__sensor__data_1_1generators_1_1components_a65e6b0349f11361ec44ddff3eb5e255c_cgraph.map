@@ -1,0 +1,29 @@
+<map id="generate_sensor_data.generators.components.apply_component" name="generate_sensor_data.generators.components.apply_component">
+<area shape="rect" id="Node000001" title="Apply one component config and return generated signal." alt="" coords="5,369,369,409"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#adbcc2739443c2ea0f58ac45478803081" title="Generate AM&#45;modulated signal." alt="" coords="442,5,791,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,368,220,305,266,219,296,173,331,129,371,89,416,55,428,48,430,53,419,60,375,93,335,133,301,177,271,222,225,308,198,370"/>
+<area shape="rect" id="Node000003" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#aea7f85a0424b200d5571ddeff114e543" title="Generate chirp signal." alt="" coords="437,69,797,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,368,227,316,276,247,339,177,376,145,416,119,429,112,431,117,419,124,379,150,343,181,280,251,232,319,202,370"/>
+<area shape="rect" id="Node000004" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a18d0ec0abf3fec1a211471b40ad69b78" title="Generate cosine waveform." alt="" coords="431,134,802,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,367,234,324,283,270,345,214,380,190,416,170,437,161,439,166,418,174,383,194,348,218,287,273,238,328,205,371"/>
+<area shape="rect" id="Node000005" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#afc7765c2001539cb4458b6d6deab64a8" title="Generate damped oscillation from given start time." alt="" coords="426,184,807,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="210,367,296,300,354,264,416,234,440,225,442,230,418,238,357,268,299,304,213,371"/>
+<area shape="rect" id="Node000006" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a5d654933091d29428796d6393a2afb93" title="Generate FM&#45;modulated signal." alt="" coords="443,248,790,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="231,367,316,331,417,297,455,288,457,293,418,303,318,336,233,372"/>
+<area shape="rect" id="Node000007" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#af199421651499c588038bd9f483d47ee" title="Generate harmonic series." alt="" coords="422,312,811,352"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="338,367,453,351,453,356,338,372"/>
+<area shape="rect" id="Node000008" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a79d9f7a73d9a85be06f52ea8b954450c" title="Generate impulse at nearest sample." alt="" coords="427,377,807,402"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="370,387,413,387,413,392,370,392"/>
+<area shape="rect" id="Node000009" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#aaf08c32ad513247d3d934bcb06401874" title="Generate brown noise by integrating white noise." alt="" coords="435,427,798,467"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="338,407,453,422,453,427,338,412"/>
+<area shape="rect" id="Node000010" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a81224c1b4391ceaa1becc91c56f1a446" title="Generate Gaussian white noise." alt="" coords="435,491,798,531"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="233,407,318,442,418,476,457,485,455,491,417,481,316,447,231,412"/>
+<area shape="rect" id="Node000011" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a6cec1098c65f8a3aa7cd0396d3a023e8" title="Generate pink&#45;like noise via frequency&#45;domain shaping." alt="" coords="417,555,816,581"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="212,407,298,475,356,511,418,540,448,550,447,555,416,545,354,516,295,479,209,411"/>
+<area shape="rect" id="Node000012" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a5c7c7284577020430da7b6952cd99da9" title="Generate linear ramp segment." alt="" coords="435,605,798,630"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="206,408,240,448,290,499,350,549,384,571,418,590,441,598,439,603,416,594,381,576,347,553,286,503,236,452,202,412"/>
+<area shape="rect" id="Node000013" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a238a0ae31099df8c797dc50eb5dfa840" title="Generate sinusoid." alt="" coords="439,654,794,679"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="202,408,233,457,281,521,344,587,380,615,419,639,436,647,434,652,416,644,377,620,341,590,277,525,229,460,198,411"/>
+<area shape="rect" id="Node000014" href="$namespacegenerate__sensor__data_1_1generators_1_1components.html#a526e806cdf67ee32b8ae427b66488c1f" title="Generate step function." alt="" coords="439,703,795,729"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="200,408,228,466,274,544,304,585,338,624,377,659,419,688,433,696,431,700,416,693,373,663,334,628,300,588,270,547,223,469,195,411"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="src.ui.components.coordinate_display_widget.CoordinateDisplayWidget._on_coord_system_changed" name="src.ui.components.coordinate_display_widget.CoordinateDisplayWidget._on_coord_system_changed">
+<area shape="rect" id="Node000001" title="Handle coordinate system change." alt="" coords="5,84,260,139"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1coordinate__display__widget_1_1CoordinateDisplayWidget.html#a669dd0511379d2eed6f570132e3083c2" title="Emit settings changed signal." alt="" coords="308,5,559,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,81,314,61,316,66,238,87"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1grid__settings__widget_1_1GridSettingsWidget.html#a138e2a766b728fa6f29ba53da064cb4a" title="Emit settings changed signal." alt="" coords="325,84,541,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,109,312,109,312,114,260,114"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#ac605b81d46bcaf349b1b8754d02858b6" title="Handle settings changed signal &#45; refresh visualization and update styles." alt="" coords="327,163,539,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="238,136,316,157,314,162,237,141"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="883,119,1095,159"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="537,160,606,147,742,136,868,134,869,139,742,142,607,153,538,165"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="881,199,1096,253"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="535,215,607,227,670,232,720,232,833,227,868,227,868,232,833,233,720,237,670,238,606,233,534,220"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#af9f20834103c112625c0690976a25277" title="Handle visualization update request." alt="" coords="607,163,833,217"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="540,187,593,187,593,193,540,193"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="833,166,869,159,870,164,834,171"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="834,203,868,207,867,212,833,208"/>
+</map>

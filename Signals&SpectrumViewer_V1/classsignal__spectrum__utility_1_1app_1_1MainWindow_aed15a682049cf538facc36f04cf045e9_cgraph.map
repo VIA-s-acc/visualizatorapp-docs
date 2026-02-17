@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_pairwise_filter_changed" name="signal_spectrum_utility.app.MainWindow._on_pairwise_filter_changed">
+<area shape="rect" id="Node000001" title="Handle pairwise metric filter checkbox toggle." alt="" coords="5,5,209,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2f02c1eb5966b58336d4efafa647b742" title="Apply pairwise metric visibility filters to comparison table columns." alt="" coords="257,5,472,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,30,243,30,243,35,210,35"/>
+</map>

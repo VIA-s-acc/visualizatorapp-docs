@@ -1,0 +1,7 @@
+<map id="src.ui.main_window.StandardModeWindow._apply_style" name="src.ui.main_window.StandardModeWindow._apply_style">
+<area shape="rect" id="Node000001" title="Apply application style (theme)" alt="" coords="268,41,480,81"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#ace180b2181508b7c34c41e56efe389e5" title="Show settings dialog." alt="" coords="6,5,219,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,47,219,43,220,37,255,42"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#ac8b52d7a2b3467d4af45ebb1b21af108" title="Show settings dialog." alt="" coords="5,70,220,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,80,221,85,220,80,254,75"/>
+</map>

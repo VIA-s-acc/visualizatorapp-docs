@@ -1,0 +1,5 @@
+<map id="src.ui.dialogs.export_dialog.ExportDialog" name="src.ui.dialogs.export_dialog.ExportDialog">
+<area shape="rect" id="Node000001" title="Export options dialog." alt="" coords="5,79,163,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,44,87,79,81,79,81,44"/>
+</map>

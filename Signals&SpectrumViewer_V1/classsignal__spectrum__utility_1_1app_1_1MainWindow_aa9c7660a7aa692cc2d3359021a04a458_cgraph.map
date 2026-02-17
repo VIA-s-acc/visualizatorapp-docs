@@ -1,0 +1,9 @@
+<map id="signal_spectrum_utility.app.MainWindow._compute_spectrum_for_selection" name="signal_spectrum_utility.app.MainWindow._compute_spectrum_for_selection">
+<area shape="rect" id="Node000001" title="Compute and render spectra through non&#45;blocking background worker." alt="" coords="5,62,247,117"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad28d6d9ffd1fa9a84ab08be163a90f3c" title="Resolve selected UI entries into sensor/channel pairs." alt="" coords="295,5,531,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,60,309,46,310,51,248,65"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="311,69,515,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,87,297,87,297,92,247,92"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="299,133,527,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,114,310,128,309,133,246,119"/>
+</map>

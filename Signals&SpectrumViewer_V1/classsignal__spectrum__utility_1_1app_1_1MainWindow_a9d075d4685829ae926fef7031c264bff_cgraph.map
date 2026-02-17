@@ -1,0 +1,11 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_window_method_changed" name="signal_spectrum_utility.app.MainWindow._on_window_method_changed">
+<area shape="rect" id="Node000001" title="Handle segmentation method changes." alt="" coords="5,84,252,139"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a8912c53fa843e8d77a883eeed4d45a0a" title="Determine whether manual window selection mode is enabled." alt="" coords="325,5,534,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,81,311,61,312,66,234,87"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ace93e3a75726015d53e05af9fc1c6f7b" title="Set visibility of manual selection markers." alt="" coords="303,84,555,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,109,290,109,290,114,252,114"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad9d2fb493ac508f38a975d22f0fa93ae" title="Show only segmentation controls relevant to selected method." alt="" coords="300,163,559,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,136,312,157,310,162,233,141"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aeb2283dc2a890d0ce1b34aa88737856d" title="Set visibility for a segmentation parameter label/control row." alt="" coords="607,163,823,217"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="559,187,593,187,593,193,559,193"/>
+</map>

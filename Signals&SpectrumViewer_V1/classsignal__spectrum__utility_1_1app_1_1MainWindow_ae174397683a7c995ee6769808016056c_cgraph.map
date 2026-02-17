@@ -1,0 +1,19 @@
+<map id="signal_spectrum_utility.app.MainWindow._save_session_to_file" name="signal_spectrum_utility.app.MainWindow._save_session_to_file">
+<area shape="rect" id="Node000001" title="Save current UI state to a session JSON file." alt="" coords="5,183,209,237"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aac0a56ebf5bfb9bf1f729eff4c810c04" title="Return current render&#45;order keys from list widget in visual order." alt="" coords="275,5,486,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,181,184,125,219,96,256,70,269,64,271,68,259,75,222,100,188,129,134,184"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#add9a5441903abb09b07224547bab0165" title="Build default export path suggestion." alt="" coords="257,85,504,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,180,204,156,256,134,280,126,282,131,258,139,207,161,159,185"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#add50ae59bcf60e4dfb9d6889110a8b94" title="Collect currently checked channels grouped by sensor." alt="" coords="266,149,495,204"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,195,252,190,252,195,210,200"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="582,247,786,287"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="210,217,568,253,568,259,210,223"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="570,323,798,363"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="134,236,187,286,221,310,258,329,333,349,410,359,486,361,556,358,556,363,486,367,410,365,332,355,256,334,218,315,184,290,130,240"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="279,279,483,319"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="189,235,258,258,303,273,302,278,256,263,187,240"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9e055c72cfd9eb1cd4cf22e8f55e5436" title="Collect checked channel keys in tree traversal order." alt="" coords="552,157,816,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="496,174,538,174,538,179,496,179"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="483,286,568,277,569,282,483,291"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="483,311,556,322,556,327,483,317"/>
+</map>

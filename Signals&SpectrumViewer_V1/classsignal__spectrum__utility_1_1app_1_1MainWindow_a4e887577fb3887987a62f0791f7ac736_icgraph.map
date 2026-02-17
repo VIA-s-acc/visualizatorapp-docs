@@ -1,0 +1,9 @@
+<map id="signal_spectrum_utility.app.MainWindow._is_auto_param_mode" name="signal_spectrum_utility.app.MainWindow._is_auto_param_mode">
+<area shape="rect" id="Node000001" title="Check whether segmentation parameters should be auto&#45;estimated." alt="" coords="549,41,805,81"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#adadb3a72d485d8bdfe6e7275f8345d73" title="Compute windows using non&#45;blocking background worker." alt="" coords="264,41,501,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,64,501,64,501,59,536,59"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="9,5,213,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,46,213,41,213,36,251,41"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac89b01d2f39e10140adf7273179fda96" title="Trigger debounced non&#45;blocking recompute." alt="" coords="5,70,216,125"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="251,81,217,86,216,81,250,76"/>
+</map>

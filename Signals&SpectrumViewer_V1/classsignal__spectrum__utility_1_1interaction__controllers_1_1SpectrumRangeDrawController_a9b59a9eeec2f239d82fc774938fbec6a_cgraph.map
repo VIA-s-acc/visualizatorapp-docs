@@ -1,0 +1,11 @@
+<map id="signal_spectrum_utility.interaction_controllers.SpectrumRangeDrawController.handle_event" name="signal_spectrum_utility.interaction_controllers.SpectrumRangeDrawController.handle_event">
+<area shape="rect" id="Node000001" title="Process viewport mouse events for interactive range drawing." alt="" coords="5,91,400,131"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1interaction__controllers_1_1SpectrumRangeDrawController.html#aee90d8f2a4c73e9f90fe24e67c437d34" title="_ensure_temp_region function." alt="" coords="448,5,755,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="304,89,448,60,449,65,305,94"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1interaction__controllers_1_1SpectrumRangeDrawController.html#aae90468ad27cf7099e21a63975ee329b" title="_finalize_range function." alt="" coords="448,84,755,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="400,109,434,109,434,114,400,114"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1interaction__controllers_1_1SpectrumRangeDrawController.html#ae6814a1698b38b8971c650fa789f4ffd" title="_frequency_from_event function." alt="" coords="448,163,755,217"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="305,129,449,157,448,163,304,134"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1interaction__controllers_1_1SpectrumRangeDrawController.html#ae0c431ade160ce58625337d29f82f9fa" title="_remove_temp_region function." alt="" coords="803,84,1109,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="755,109,789,109,789,114,755,114"/>
+</map>

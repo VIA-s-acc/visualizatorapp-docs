@@ -1,0 +1,5 @@
+<map id="src.export.geojson_exporter.GeoJSONExporter._create_geojson" name="src.export.geojson_exporter.GeoJSONExporter._create_geojson">
+<area shape="rect" id="Node000001" title="Create GeoJSON FeatureCollection from GeoData." alt="" coords="299,5,501,60"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1export_1_1geojson__exporter_1_1GeoJSONExporter.html#a6082ab91bb1673caf7e4efc539ca0b58" title="Export data to GeoJSON file." alt="" coords="5,13,251,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,35,251,35,251,30,285,30"/>
+</map>

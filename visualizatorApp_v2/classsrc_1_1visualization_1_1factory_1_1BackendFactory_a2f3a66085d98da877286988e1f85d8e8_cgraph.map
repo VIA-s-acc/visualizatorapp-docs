@@ -1,0 +1,8 @@
+<map id="src.visualization.factory.BackendFactory.create" name="src.visualization.factory.BackendFactory.create">
+<area shape="rect" id="Node000001" title="Create a visualization backend instance." alt="" coords="5,13,185,53"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1visualization_1_1factory_1_1BackendFactory.html#a8aeb4f05136406581499e5039b1297df" title="Check if a backend is available." alt="" coords="495,5,727,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,24,233,22,340,20,447,22,481,23,481,28,447,27,340,25,233,27,186,29"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1visualization_1_1factory_1_1BackendFactory.html#a41f369e356846234e19a6fba4003c3cb" title="Get available fallback backend." alt="" coords="233,37,447,92"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,42,220,46,219,52,185,47"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="447,49,481,45,481,51,447,55"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="src.ui.main_window.StandardModeWindow._setup_ui" name="src.ui.main_window.StandardModeWindow._setup_ui">
+<area shape="rect" id="Node000001" title="Setup main window UI with fully dockable panels." alt="" coords="328,191,540,231"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1coordinate__display__widget_1_1CoordinateDisplayWidget.html#ac9c894dace3ad3b893eb15eb4336c2cd" title="Constructor." alt="" coords="17,29,268,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="400,184,346,140,279,98,253,87,255,82,281,93,349,135,403,180"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1grid__settings__widget_1_1GridSettingsWidget.html#ae4aa53d381e52da63073e0b3ec475cb7" title="Constructor." alt="" coords="35,132,251,187"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="314,193,250,181,251,176,314,187"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1isosurface__widget_1_1IsosurfaceWidget.html#a8832f4aa0ea2035dab0e0579dd204224" title="Constructor." alt="" coords="37,235,249,289"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="315,235,249,246,248,241,314,229"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1tech__columns__widget_1_1TechColumnsWidget.html#ab4ab57103a8c0c8f9fbc10befa768d82" title="Constructor." alt="" coords="5,337,280,392"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="390,241,281,303,206,340,204,335,279,298,388,236"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="192,19,174,11,143,8,116,10,99,15,92,21,92,29,87,29,87,19,97,10,116,5,143,3,175,6,194,14"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="192,121,174,114,143,111,116,113,99,118,92,124,92,132,87,132,87,122,97,113,116,107,143,105,175,108,194,116"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="192,224,174,216,143,213,116,215,99,220,92,227,92,235,87,235,87,224,97,215,116,210,143,208,175,211,194,219"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="192,327,174,319,143,316,116,318,99,323,92,329,92,337,87,337,87,327,97,318,116,313,143,311,175,314,194,322"/>
+</map>

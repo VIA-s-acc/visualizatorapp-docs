@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['end_5fidx_0',['end_idx',['../classsignal__spectrum__utility_1_1types_1_1WindowSegment.html#aef0736a451da3b5d81a4335e06fd555c',1,'signal_spectrum_utility::types::WindowSegment']]],
+  ['energy_5fbased_5fwindows_1',['energy_based_windows',['../namespacesignal__spectrum__utility_1_1segmentation.html#ae36bd7b48178cb89d4bf6c0298e69616',1,'signal_spectrum_utility::segmentation']]],
+  ['energy_5fthreshold_2',['energy_threshold',['../classsignal__spectrum__utility_1_1async__recompute_1_1SegmentationJobInput.html#a1651f61be44f99fdb6b6b8b2c11c45cd',1,'signal_spectrum_utility.async_recompute.SegmentationJobInput.energy_threshold'],['../classsignal__spectrum__utility_1_1config_1_1SegmentationSettings.html#add1ce95f300d34a5973779a7ef4ccda3',1,'signal_spectrum_utility.config.SegmentationSettings.energy_threshold']]],
+  ['energy_5fthreshold_5flabel_3',['energy_threshold_label',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aa8de7d194414854a7654ef37a81a35a5',1,'signal_spectrum_utility.app.MainWindow.energy_threshold_label'],['../classsignal__spectrum__utility_1_1ui__components_1_1SelectorPanelView.html#a5831bc36a64b3249356afda70b0dd7d9',1,'signal_spectrum_utility.ui_components.SelectorPanelView.energy_threshold_label'],['../classsignal__spectrum__utility_1_1ui__components_1_1SegmentationSectionView.html#a7fe6da01faa85c4e1e1a3eda0700534a',1,'signal_spectrum_utility.ui_components.SegmentationSectionView.energy_threshold_label']]],
+  ['energy_5fthreshold_5fspin_4',['energy_threshold_spin',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a690a4e51ec1bcf6e65e665cea36b3074',1,'signal_spectrum_utility.app.MainWindow.energy_threshold_spin'],['../classsignal__spectrum__utility_1_1ui__components_1_1SelectorPanelView.html#aaefe1e2317fdd6e3844a24f0485f57aa',1,'signal_spectrum_utility.ui_components.SelectorPanelView.energy_threshold_spin'],['../classsignal__spectrum__utility_1_1ui__components_1_1SegmentationSectionView.html#abd28bd1efacdd14d149b5e4cdd8cadf3',1,'signal_spectrum_utility.ui_components.SegmentationSectionView.energy_threshold_spin']]],
+  ['entrypoint_5',['Package entrypoint',['../md_README.html#autotoc_md12',1,'']]],
+  ['environments_6',['Different results across environments',['../md_README.html#autotoc_md32',1,'']]],
+  ['estimate_5fwindow_5fparameters_7',['estimate_window_parameters',['../namespacesignal__spectrum__utility_1_1async__recompute.html#ad43ef7ed24deae445a0bb97e737dfb62',1,'signal_spectrum_utility::async_recompute']]],
+  ['estimated_5fparams_8',['estimated_params',['../classsignal__spectrum__utility_1_1async__recompute_1_1SegmentationJobResult.html#a2602bac8f0cb5ccd5810adf7a1bc0f48',1,'signal_spectrum_utility::async_recompute::SegmentationJobResult']]],
+  ['eventfilter_9',['eventFilter',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#adebfd663919552ce87647db06687235e',1,'signal_spectrum_utility::app::MainWindow']]],
+  ['events_10',['events',['../classgenerate__sensor__data_1_1generators_1_1scenarios_1_1ScenarioBundle.html#af7680d891e9e91daf53d0eb6e87b5b7d',1,'generate_sensor_data::generators::scenarios::ScenarioBundle']]],
+  ['example_20commands_11',['Example commands',['../md_README.html#autotoc_md18',1,'']]],
+  ['export_5fcombined_5fchart_5fbtn_12',['export_combined_chart_btn',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a6c1f0b307619a47e5caaa4a87dc6a6eb',1,'signal_spectrum_utility::app::MainWindow']]],
+  ['export_5fcomparison_5fbtn_13',['export_comparison_btn',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ab04ab493c5b67bd9c9de87de7edbe743',1,'signal_spectrum_utility::app::MainWindow']]],
+  ['export_5fcomparison_5fcsv_14',['export_comparison_csv',['../namespacesignal__spectrum__utility_1_1session.html#a2ffa388a5e83dd844dca258ce6b7e950',1,'signal_spectrum_utility::session']]],
+  ['export_5fmenu_15',['export_menu',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a1142f11622f184b1bcb8029477a9f1f1',1,'signal_spectrum_utility::app::MainWindow']]],
+  ['export_5fsignal_5fchart_5fbtn_16',['export_signal_chart_btn',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aeda9aaef09ab2643d116f92c0486c248',1,'signal_spectrum_utility::app::MainWindow']]],
+  ['export_5fspectrum_5fbtn_17',['export_spectrum_btn',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a4332a3e0406706bd95103fbec4c031ad',1,'signal_spectrum_utility::app::MainWindow']]],
+  ['export_5fspectrum_5fchart_5fbtn_18',['export_spectrum_chart_btn',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a02f2dd76c24e4d793f6f40fe55898dd5',1,'signal_spectrum_utility::app::MainWindow']]],
+  ['export_5fspectrum_5fcsv_19',['export_spectrum_csv',['../namespacesignal__spectrum__utility_1_1session.html#acdcda4dbc47fcbd12e8ccfe052af92ae',1,'signal_spectrum_utility::session']]],
+  ['export_5fwindows_5fbtn_20',['export_windows_btn',['../classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a442f26d1cd383ac46f8bd6d19e2048c5',1,'signal_spectrum_utility::app::MainWindow']]],
+  ['export_5fwindows_5fjson_21',['export_windows_json',['../namespacesignal__spectrum__utility_1_1session.html#ab5d8f64d55bd52556125b5a8b4cbbc5a',1,'signal_spectrum_utility::session']]],
+  ['exports_20and_20session_20state_22',['Exports and Session State',['../md_README.html#autotoc_md21',1,'']]]
+];

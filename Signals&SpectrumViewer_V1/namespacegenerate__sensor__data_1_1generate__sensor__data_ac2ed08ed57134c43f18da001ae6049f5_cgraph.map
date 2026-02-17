@@ -1,0 +1,5 @@
+<map id="generate_sensor_data.generate_sensor_data._load_payload" name="generate_sensor_data.generate_sensor_data._load_payload">
+<area shape="rect" id="Node000001" title="Load config payload from JSON file or CLI args." alt="" coords="5,13,233,53"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1generate__sensor__data.html#abd021f740aac13b530f51c8b4ccc59a2" title="Convert argparse values to a normalized config payload." alt="" coords="281,5,509,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,30,268,30,268,35,233,35"/>
+</map>

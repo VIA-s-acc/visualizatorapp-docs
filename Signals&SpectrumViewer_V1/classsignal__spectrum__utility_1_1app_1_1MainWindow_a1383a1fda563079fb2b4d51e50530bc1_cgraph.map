@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._apply_settings_from_payload" name="signal_spectrum_utility.app.MainWindow._apply_settings_from_payload">
+<area shape="rect" id="Node000001" title="Apply persisted settings dictionary to runtime settings." alt="" coords="5,5,216,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a673156e36526981c754fa9c9256f901b" title="Apply current settings object to runtime UI/behavior." alt="" coords="264,5,475,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,30,251,30,251,35,216,35"/>
+</map>

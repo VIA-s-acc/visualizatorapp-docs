@@ -1,0 +1,13 @@
+<map id="signal_spectrum_utility.app.MainWindow._apply_offset_for_selected_signal" name="signal_spectrum_utility.app.MainWindow._apply_offset_for_selected_signal">
+<area shape="rect" id="Node000001" title="Apply editor X/Y offsets to selected signal." alt="" coords="5,62,209,117"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#accf96e1cd1ca9feff48db63045e0d8ce" title="Get currently selected signal key in offset editor." alt="" coords="259,5,495,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,63,278,46,279,51,210,68"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac06f20660046bee87a63d74aa3c09389" title="Render selected channels on time&#45;domain plot." alt="" coords="257,69,496,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,87,244,87,244,92,209,92"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="275,133,479,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,111,279,128,278,133,209,116"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="556,101,760,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="479,139,542,132,542,137,479,144"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="544,165,772,205"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="479,162,530,168,530,173,479,168"/>
+</map>

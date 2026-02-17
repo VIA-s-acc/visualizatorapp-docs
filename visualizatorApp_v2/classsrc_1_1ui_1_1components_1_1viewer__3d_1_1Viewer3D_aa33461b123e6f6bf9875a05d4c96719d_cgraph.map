@@ -1,0 +1,8 @@
+<map id="src.ui.components.viewer_3d.Viewer3D.plot_tech_columns" name="src.ui.components.viewer_3d.Viewer3D.plot_tech_columns">
+<area shape="rect" id="Node000001" title="Plot technical columns as lines/tubes." alt="" coords="5,22,195,77"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a080a3e2c5d277fcd43d39dc83f20d405" title="Clear all technical columns from the plotter." alt="" coords="243,22,432,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,47,229,47,229,52,195,52"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a335f130397eb52ecd9948b93dc30de4d" title="Remove a named actor from the plotter." alt="" coords="480,29,687,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,47,466,47,466,52,432,52"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="538,30,535,20,542,10,559,5,583,3,612,6,627,13,625,18,610,11,583,8,560,10,545,15,540,21,543,28"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="src.ui.components.loading_spinner.LoadingSpinner.start" name="src.ui.components.loading_spinner.LoadingSpinner.start">
+<area shape="rect" id="Node000001" title="Start the spinner animation." alt="" coords="5,137,219,177"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="59,138,56,128,65,118,83,113,112,111,145,113,163,121,161,126,144,119,112,116,84,118,67,123,61,129,64,136"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1core_1_1interfaces_1_1IVisualizationBackend.html#a343bbfe4a00c2ea092e45acd4408d5a8" title="Display the plot." alt="" coords="281,5,516,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,135,194,94,266,55,286,47,288,52,268,60,197,99,140,139"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#ad58873d51c221fa6433dfab36d22e67a" title="Display the plot." alt="" coords="267,93,531,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,138,254,133,255,138,219,144"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#a3891c2d18cb7c6c9374f6b8676f9f75d" title="Display the plot." alt="" coords="281,181,516,221"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="219,171,268,179,267,184,218,176"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#a83455ffe49e17335039b67101f5dc920" title="Display the plot." alt="" coords="276,269,521,309"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="154,175,268,231,337,261,335,266,266,236,152,180"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="346,94,343,84,351,74,370,69,399,67,432,69,450,77,448,82,430,75,399,72,371,74,354,79,348,85,351,92"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="346,182,343,172,351,162,370,157,399,155,432,157,450,165,448,170,430,163,399,160,371,162,354,167,348,173,351,180"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="346,270,343,260,351,250,370,245,399,243,432,245,450,253,448,258,430,251,399,248,371,250,354,255,348,261,351,268"/>
+</map>

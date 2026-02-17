@@ -1,0 +1,9 @@
+<map id="src.ui.main_window.StandardModeWindow._on_visualization_requested" name="src.ui.main_window.StandardModeWindow._on_visualization_requested">
+<area shape="rect" id="Node000001" title="Handle visualization update request." alt="" coords="568,45,795,100"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a3d565d98e4b835c7e95e23fce779bc99" title="Handle isosurface clear request." alt="" coords="308,5,520,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="554,56,520,51,521,46,555,51"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#ac605b81d46bcaf349b1b8754d02858b6" title="Handle settings changed signal &#45; refresh visualization and update styles." alt="" coords="308,84,520,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="555,94,521,99,520,93,554,88"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1coordinate__display__widget_1_1CoordinateDisplayWidget.html#a4d38cd9959483c4248dce54ebb4c81ee" title="Handle coordinate system change." alt="" coords="5,84,260,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="294,114,260,114,260,109,294,109"/>
+</map>

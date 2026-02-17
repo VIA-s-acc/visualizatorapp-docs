@@ -1,0 +1,5 @@
+<map id="src.ui.components.value_range_widget.ValueRangeWidget" name="src.ui.components.value_range_widget.ValueRangeWidget">
+<area shape="rect" id="Node000001" title="Widget for defining value ranges with custom colors." alt="" coords="5,79,249,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="88,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,44,130,79,125,79,125,44"/>
+</map>

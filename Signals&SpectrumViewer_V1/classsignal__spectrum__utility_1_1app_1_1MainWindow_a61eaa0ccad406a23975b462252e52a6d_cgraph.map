@@ -1,0 +1,46 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_spectrum_worker_done_signal" name="signal_spectrum_utility.app.MainWindow._on_spectrum_worker_done_signal">
+<area shape="rect" id="Node000001" title="Route spectrum completion from worker thread into UI thread." alt="" coords="5,301,209,356"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a777616a3ba15ce50f102be14ce2076e0" title="Apply spectrum worker result if it is the latest version." alt="" coords="257,301,461,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,326,244,326,244,331,209,331"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a1a1f2f48708bebbd8e4b819dce604071" title="Recompute range metrics and refresh comparison tables." alt="" coords="1171,171,1375,225"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,299,509,286,668,248,738,234,829,221,1001,205,1157,197,1158,203,1002,210,830,226,739,239,669,253,510,291,460,304"/>
+<area shape="rect" id="Node000009" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a108a288f1516879af0579a05ec07229d" title="Refresh metrics source selector from currently computed spectra." alt="" coords="1708,5,1927,60"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="391,299,484,229,548,186,622,143,703,104,789,71,879,49,924,43,970,41,1275,41,1694,34,1694,39,1275,46,970,46,925,48,880,54,791,76,705,109,624,148,551,191,487,233,394,303"/>
+<area shape="rect" id="Node000010" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9d260a91e77239b3641753342dbd10d5" title="Render spectrum range overlays." alt="" coords="543,301,747,356"/>
+<area shape="poly" id="edge13_Node000002_Node000010" title=" " alt="" coords="461,326,529,326,529,331,461,331"/>
+<area shape="rect" id="Node000015" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="1715,266,1919,306"/>
+<area shape="poly" id="edge26_Node000002_Node000015" title=" " alt="" coords="438,354,542,386,674,419,821,446,896,454,970,457,1275,457,1346,452,1418,441,1489,423,1557,402,1677,354,1766,310,1769,315,1679,359,1558,407,1490,428,1419,446,1347,458,1275,462,970,462,896,459,820,451,673,425,541,391,437,359"/>
+<area shape="rect" id="Node000016" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2846c8619621c4f776db7b0e6742baf0" title="Render computed spectrum plot series in UI thread." alt="" coords="509,497,781,537"/>
+<area shape="poly" id="edge23_Node000002_Node000016" title=" " alt="" coords="383,354,436,416,472,448,511,476,539,489,537,494,508,480,468,452,433,419,379,358"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2f02c1eb5966b58336d4efafa647b742" title="Apply pairwise metric visibility filters to comparison table columns." alt="" coords="1439,171,1654,225"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1375,195,1426,195,1426,201,1375,201"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a286cb8eaba003b0404efe895954d3035" title="Return currently selected spectrum source for metrics." alt="" coords="1433,92,1660,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1368,168,1437,148,1438,153,1370,173"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a588a045f5bda98e3e53a2d60da6aa778" title="Build an averaged spectrum across all currently available spectra." alt="" coords="1713,136,1921,191"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1661,135,1701,142,1700,147,1660,140"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="1987,175,2191,215"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="1639,144,1661,156,1676,168,1685,180,1694,191,1709,200,1778,218,1851,225,1921,223,1985,215,1986,220,1921,228,1850,230,1777,223,1707,204,1691,195,1681,183,1672,171,1659,160,1637,149"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="1975,111,2203,151"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="1660,117,1927,121,1961,122,1961,127,1927,126,1660,122"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1922,173,1973,179,1973,184,1921,178"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1921,148,1961,144,1961,149,1922,154"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="1853,58,1976,161,1991,168,1988,173,1973,166,1850,62"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="1894,58,2021,104,2019,109,1892,63"/>
+<area shape="rect" id="Node000011" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac467df8b8ddea544720c19b4ea378d07" title="Remove current range overlay items from spectrum plot." alt="" coords="869,367,1073,421"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="748,346,856,368,855,374,747,352"/>
+<area shape="rect" id="Node000012" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a89b754f271f691c01d658a6408865a1b" title="Finalize moved region update and refresh dependent metrics." alt="" coords="859,236,1083,291"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="747,306,845,286,846,291,748,311"/>
+<area shape="rect" id="Node000013" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a89b39ab8c36068c69866488650b9c322" title="Sync moved region boundaries back into selected range model." alt="" coords="1161,301,1385,356"/>
+<area shape="poly" id="edge22_Node000010_Node000013" title=" " alt="" coords="747,326,1147,326,1147,331,747,331"/>
+<area shape="poly" id="edge18_Node000012_Node000003" title=" " alt="" coords="1083,236,1157,220,1158,226,1084,242"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="1084,285,1149,299,1147,304,1083,290"/>
+<area shape="poly" id="edge19_Node000012_Node000015" title=" " alt="" coords="1083,264,1702,280,1702,286,1083,269"/>
+<area shape="rect" id="Node000014" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad9ffa140fa55a7c41d69fb3138314b5a" title="Sync explicit ranges model/view list with current selected ranges." alt="" coords="1435,309,1659,349"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="1386,326,1421,326,1421,331,1386,331"/>
+<area shape="poly" id="edge20_Node000015_Node000007" title=" " alt="" coords="1877,263,2014,217,2016,222,1879,268"/>
+<area shape="poly" id="edge21_Node000015_Node000008" title=" " alt="" coords="1843,264,1925,200,1948,179,1973,161,1988,154,1991,159,1976,166,1951,183,1928,204,1847,268"/>
+<area shape="rect" id="Node000017" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a72cd216761d9fcfc49448319aaf03f99" title="Downsample plot series with optional current&#45;view focus." alt="" coords="829,497,1113,537"/>
+<area shape="poly" id="edge24_Node000016_Node000017" title=" " alt="" coords="781,514,816,514,816,519,781,519"/>
+<area shape="rect" id="Node000018" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a5009ae7b8836180b2543d49cd66e056f" title="Build a distinct shade for a windowed spectrum preserving channel identity." alt="" coords="846,561,1097,601"/>
+<area shape="poly" id="edge25_Node000016_Node000018" title=" " alt="" coords="749,534,856,555,855,561,748,539"/>
+</map>

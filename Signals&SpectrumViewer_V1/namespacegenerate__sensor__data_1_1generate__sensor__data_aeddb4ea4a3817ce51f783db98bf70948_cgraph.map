@@ -1,0 +1,5 @@
+<map id="generate_sensor_data.generate_sensor_data._apply_events" name="generate_sensor_data.generate_sensor_data._apply_events">
+<area shape="rect" id="Node000001" title="Apply scenario events to generated baseline signals." alt="" coords="5,5,233,45"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1generate__sensor__data.html#ad28c22dfcacf56495f101ec0dd1ff8f2" title="Convert a value to float with fallback." alt="" coords="281,5,509,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,23,268,23,268,28,233,28"/>
+</map>

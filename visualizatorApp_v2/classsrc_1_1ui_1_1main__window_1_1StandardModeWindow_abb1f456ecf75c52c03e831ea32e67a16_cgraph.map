@@ -1,0 +1,11 @@
+<map id="src.ui.main_window.StandardModeWindow._on_tech_file_loaded" name="src.ui.main_window.StandardModeWindow._on_tech_file_loaded">
+<area shape="rect" id="Node000001" title="Handle technical columns file loaded." alt="" coords="5,56,255,96"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="579,5,791,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,53,302,33,438,22,564,20,565,25,438,28,303,39,203,59"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="577,85,792,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,93,251,105,303,113,366,118,416,118,529,113,564,113,564,118,529,119,416,123,366,124,302,119,250,110,200,99"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a577dc38cb9d7f46ded72221339586adc" title="Handle technical columns parameters changed (color, thickness, visibility)" alt="" coords="303,49,529,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,73,289,73,289,79,255,79"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="529,52,565,45,566,50,530,57"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="530,89,564,93,563,98,529,94"/>
+</map>

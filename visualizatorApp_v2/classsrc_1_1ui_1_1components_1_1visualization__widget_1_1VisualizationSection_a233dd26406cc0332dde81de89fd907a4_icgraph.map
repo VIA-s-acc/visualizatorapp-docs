@@ -1,0 +1,11 @@
+<map id="src.ui.components.visualization_widget.VisualizationSection.get_value_range_config" name="src.ui.components.visualization_widget.VisualizationSection.get_value_range_config">
+<area shape="rect" id="Node000001" title="Get value range configuration." alt="" coords="557,84,792,139"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#a8aea82053459f5595eb1009a47353617" title="Emit update request signal." alt="" coords="281,84,509,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,114,509,114,509,109,544,109"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#a86bb3d6ca8309094c2c9e20214595dd0" title="Handle grid group checkbox toggle." alt="" coords="5,5,233,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,83,215,63,217,58,286,78"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#aea12bd1c429932f2ada951279c960b8a" title="Handle range group checkbox toggle." alt="" coords="5,84,233,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="268,114,234,114,234,109,268,109"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#aa2452232f88921ab8602d99e4fcb7c94" title="Handle value range changes." alt="" coords="5,163,233,217"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="286,145,217,165,215,160,285,140"/>
+</map>

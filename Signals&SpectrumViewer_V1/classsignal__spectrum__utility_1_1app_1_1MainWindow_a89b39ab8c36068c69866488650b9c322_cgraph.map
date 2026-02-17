@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_range_region_changed" name="signal_spectrum_utility.app.MainWindow._on_range_region_changed">
+<area shape="rect" id="Node000001" title="Sync moved region boundaries back into selected range model." alt="" coords="5,5,229,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad9ffa140fa55a7c41d69fb3138314b5a" title="Sync explicit ranges model/view list with current selected ranges." alt="" coords="277,13,501,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,30,264,30,264,35,229,35"/>
+</map>

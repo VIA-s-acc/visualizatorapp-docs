@@ -1,0 +1,5 @@
+<map id="src.ui.mode_selector.ModeSelectorDialog._set_style" name="src.ui.mode_selector.ModeSelectorDialog._set_style">
+<area shape="rect" id="Node000001" title="Set dialog style." alt="" coords="343,5,539,45"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1collapsible__section_1_1CollapsibleSection.html#a03592ca1e240f59eb45d18efc21ba2d9" title="Refresh the widget style (call when theme changes)" alt="" coords="5,5,295,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,28,295,28,295,23,329,23"/>
+</map>

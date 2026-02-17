@@ -1,0 +1,7 @@
+<map id="signal_spectrum_utility.app.MainWindow._selected_channel_mapping" name="signal_spectrum_utility.app.MainWindow._selected_channel_mapping">
+<area shape="rect" id="Node000001" title="Collect currently checked channels grouped by sensor." alt="" coords="308,34,537,89"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9e99a8167ee8dcc3be1d265e936261a3" title="Open settings dialog and apply changes when accepted." alt="" coords="5,5,260,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,48,260,44,260,38,295,43"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ae174397683a7c995ee6769808016056c" title="Save current UI state to a session JSON file." alt="" coords="31,70,235,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,80,235,87,235,82,294,75"/>
+</map>

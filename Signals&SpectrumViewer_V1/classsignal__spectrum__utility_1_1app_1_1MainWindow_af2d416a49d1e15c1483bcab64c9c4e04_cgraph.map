@@ -1,0 +1,11 @@
+<map id="signal_spectrum_utility.app.MainWindow._export_spectrum_csv" name="signal_spectrum_utility.app.MainWindow._export_spectrum_csv">
+<area shape="rect" id="Node000001" title="Export computed spectra to CSV via toolbar action." alt="" coords="5,49,260,89"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="572,5,776,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,47,308,35,437,25,558,22,558,27,437,31,308,40,229,52"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="560,81,788,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,87,308,99,431,105,547,104,547,110,430,110,308,104,225,92"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="308,49,512,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,67,294,67,294,72,260,72"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="512,50,558,42,559,47,513,55"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="513,79,547,83,546,89,512,84"/>
+</map>

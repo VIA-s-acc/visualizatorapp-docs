@@ -1,0 +1,9 @@
+<map id="src.ui.main_window.StandardModeWindow._populate_table_with_interpolation" name="src.ui.main_window.StandardModeWindow._populate_table_with_interpolation">
+<area shape="rect" id="Node000001" title="Populate data table with InterpolationResult (technical columns style)" alt="" coords="559,45,776,100"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#af5088e023bc46a397f21900c8c2da5cd" title="Add interpolation result data to table (if needed)" alt="" coords="276,5,511,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,57,511,52,511,47,546,52"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a97a38ef87b823be7b9d739f32fd675b6" title="Handle successful interpolation." alt="" coords="280,84,507,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="545,93,507,98,507,93,544,87"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#aee6c4059824793b5374ce177beb9f889" title="Handle interpolated data load request." alt="" coords="5,84,228,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,114,228,114,228,109,266,109"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="src.visualization.factory.BackendFactory.create_from_format" name="src.visualization.factory.BackendFactory.create_from_format">
+<area shape="rect" id="Node000001" title="Create backend based on output format." alt="" coords="5,184,261,224"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1export_1_1factory_1_1ExportFactory.html#a7a64603e5acdccb963b02175d491f805" title="Create an exporter instance." alt="" coords="313,33,494,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,182,353,78,356,82,171,186"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1interpolation_1_1factory_1_1InterpolatorFactory.html#a6cadcdf1516064ae1bb914296b126f9b" title="Create an interpolator instance." alt="" coords="309,184,497,224"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="262,201,296,201,296,207,262,207"/>
+<area shape="rect" id="Node000009" href="$classsrc_1_1visualization_1_1factory_1_1BackendFactory.html#a2f3a66085d98da877286988e1f85d8e8" title="Create a visualization backend instance." alt="" coords="313,328,493,368"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="173,222,354,319,351,324,171,226"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1export_1_1factory_1_1ExportFactory.html#addaf233307afc313c860660658d9250e" title="Check if an exporter is available." alt="" coords="825,5,1021,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,31,545,19,683,11,811,14,811,20,683,17,546,24,479,36"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1export_1_1factory_1_1ExportFactory.html#a7b6d92f11d080f993348ca57c51c2acf" title="Get available fallback format." alt="" coords="547,33,757,73"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="494,51,533,51,533,56,494,56"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="757,40,811,34,811,40,757,45"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1interpolation_1_1factory_1_1InterpolatorFactory.html#a3f561bdea8d66dfd59fd0bf82a962554" title="Check if fast binary server is available." alt="" coords="556,98,748,153"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="467,181,551,154,553,159,468,186"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1interpolation_1_1factory_1_1InterpolatorFactory.html#a919ad578d0fb700980e4907f6d058cb1" title="Check if Go service is available." alt="" coords="556,177,748,231"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="498,201,542,201,542,207,498,207"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1interpolation_1_1factory_1_1InterpolatorFactory.html#a552621b926c7f4c0fc0976a75e473409" title="Check if shared memory server is available." alt="" coords="556,255,748,310"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="468,222,553,249,551,254,467,227"/>
+<area shape="rect" id="Node000010" href="$classsrc_1_1visualization_1_1factory_1_1BackendFactory.html#a8aeb4f05136406581499e5039b1297df" title="Check if a backend is available." alt="" coords="807,353,1039,407"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="494,351,793,369,793,375,493,356"/>
+<area shape="rect" id="Node000011" href="$classsrc_1_1visualization_1_1factory_1_1BackendFactory.html#a41f369e356846234e19a6fba4003c3cb" title="Get available fallback backend." alt="" coords="545,386,759,441"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="481,365,535,380,534,385,479,371"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="759,398,793,393,793,399,759,403"/>
+</map>

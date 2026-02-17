@@ -1,0 +1,7 @@
+<map id="signal_spectrum_utility.ui_components._add_collapsible_section" name="signal_spectrum_utility.ui_components._add_collapsible_section">
+<area shape="rect" id="Node000001" title="Append a simple collapsible section and return its body layout." alt="" coords="300,30,521,85"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1ui__components.html#ada53bace820c0123fbf0a5ab4760fb57" title="Build charts/comparison panel using explicit callbacks." alt="" coords="11,5,246,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,46,246,41,246,36,287,41"/>
+<area shape="rect" id="Node000003" href="$namespacesignal__spectrum__utility_1_1ui__components.html#a06478fa63b4c3eae2b400fd2c6c23450" title="Build selector and left control panel using explicit callbacks." alt="" coords="5,69,252,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,74,253,78,252,73,286,69"/>
+</map>

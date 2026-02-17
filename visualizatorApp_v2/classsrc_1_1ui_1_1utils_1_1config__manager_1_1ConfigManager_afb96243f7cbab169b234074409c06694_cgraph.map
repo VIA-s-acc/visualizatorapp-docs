@@ -1,0 +1,24 @@
+<map id="src.ui.utils.config_manager.ConfigManager.add_recent_file" name="src.ui.utils.config_manager.ConfigManager.add_recent_file">
+<area shape="rect" id="Node000001" title="Add file to recent files list." alt="" coords="5,254,220,309"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1settings_1_1SettingsManager.html#aa8ec50c29a0a4926d36a4c34c548afae" title=" " alt="" coords="315,5,485,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,253,143,209,175,155,216,101,240,76,267,55,300,38,303,43,269,60,243,80,220,104,179,158,148,211,127,255"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1utils_1_1config__manager_1_1ConfigManager.html#a7517003db36a80ed8d2faace2e9ba86c" title="Get configuration value." alt="" coords="294,69,506,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,252,186,185,224,149,267,119,280,112,283,117,269,124,228,153,190,188,135,255"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1utils_1_1config__manager_1_1ConfigManager.html#a3aaaba856c5fbd1ff45e1a17da514e6f" title="Save configuration to file." alt="" coords="289,133,511,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,251,203,216,267,183,288,175,290,180,269,188,206,221,152,256"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1core_1_1interfaces_1_1IVisualizationBackend.html#aaa3f687240faca61c0a6b3564f0b8f39" title="Save plot to file." alt="" coords="283,197,517,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="220,255,296,238,297,243,221,260"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#ad9d45c61c64ef3b99302fe57a249e174" title="Save plot to file." alt="" coords="268,261,532,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="220,279,254,279,254,284,220,284"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#ac17696977e17f03d99dd264dd9708af9" title="Save plot to file." alt="" coords="283,325,517,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="221,303,297,320,296,325,220,308"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#a0997755df813aaa0fcaaed250f503258" title="Save plot to file." alt="" coords="277,413,523,453"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="156,306,209,341,269,375,336,406,333,411,267,380,206,345,153,311"/>
+<area shape="rect" id="Node000009" href="$classsrc_1_1ui_1_1settings_1_1SettingsManager.html#a0b7795742ea99dbd639a2fb47607d50d" title=" " alt="" coords="315,477,485,517"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="131,307,154,343,186,386,224,428,269,463,303,479,301,483,267,468,221,432,181,389,150,346,127,310"/>
+<area shape="rect" id="Node000011" href="$classsrc_1_1ui_1_1utils_1_1config__manager_1_1ConfigManager.html#a06b95ed3e28b5350c3d37c19abf72134" title="Set configuration value." alt="" coords="295,541,505,581"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="126,308,145,356,175,416,217,476,242,504,270,527,283,536,280,540,266,531,238,507,213,480,171,418,140,358,121,310"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="351,414,348,404,356,394,373,389,400,387,431,389,447,397,445,402,429,395,400,392,374,394,359,399,353,405,356,412"/>
+<area shape="rect" id="Node000010" href="$classsrc_1_1ui_1_1settings_1_1SettingsManager.html#aab2a086bbe1f9da77a67d5516efcb8e4" title=" " alt="" coords="580,477,751,517"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="486,495,566,495,566,500,486,500"/>
+</map>

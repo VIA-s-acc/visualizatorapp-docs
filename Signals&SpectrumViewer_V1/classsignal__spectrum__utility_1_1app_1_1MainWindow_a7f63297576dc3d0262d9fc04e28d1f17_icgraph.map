@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_windows_worker_done" name="signal_spectrum_utility.app.MainWindow._on_windows_worker_done">
+<area shape="rect" id="Node000001" title="Apply segmentation worker result if it is the latest version." alt="" coords="300,13,587,53"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a27f06761cfc12c66f78788829b8565c8" title="Route segmentation completion from worker thread into UI thread." alt="" coords="5,5,252,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,35,252,35,252,30,286,30"/>
+</map>

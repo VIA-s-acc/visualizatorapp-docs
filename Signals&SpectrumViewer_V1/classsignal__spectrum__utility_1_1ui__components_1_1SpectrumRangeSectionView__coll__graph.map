@@ -1,0 +1,15 @@
+<map id="signal_spectrum_utility.ui_components.SpectrumRangeSectionView" name="signal_spectrum_utility.ui_components.SpectrumRangeSectionView">
+<area shape="rect" id="Node000001" title="SpectrumRangeSectionView class." alt="" coords="332,137,628,177"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,72,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,45,44,80,51,97,62,111,96,123,162,133,332,147,332,152,161,138,95,128,58,116,46,100,39,82,34,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="190,5,293,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,44,244,80,249,97,259,111,287,127,332,138,331,143,285,132,256,115,244,99,238,81,236,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="344,5,475,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="406,45,404,79,407,96,413,112,423,125,436,135,433,139,419,129,408,115,402,97,399,79,401,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="500,5,601,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="549,45,541,79,525,115,505,139,501,135,520,112,535,77,544,44"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="625,5,732,31"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="673,45,655,81,642,100,626,115,604,129,581,140,579,135,602,125,622,111,638,96,650,79,668,43"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="773,5,870,31"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="823,45,816,82,807,100,794,115,766,130,727,141,628,153,628,148,726,135,764,125,790,111,802,97,810,80,818,44"/>
+</map>

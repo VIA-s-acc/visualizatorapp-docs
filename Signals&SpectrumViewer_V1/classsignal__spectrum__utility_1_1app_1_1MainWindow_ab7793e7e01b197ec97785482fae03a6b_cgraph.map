@@ -1,0 +1,9 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_open_folder" name="signal_spectrum_utility.app.MainWindow._on_open_folder">
+<area shape="rect" id="Node000001" title="Handle folder selection and data loading." alt="" coords="5,69,221,109"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ab6ebbe72abb04f1a0ad6b7fb6f9ca98a" title="Load sensor folder and refresh dependent UI state." alt="" coords="271,5,496,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,67,285,46,286,51,199,72"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="281,69,485,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,87,268,87,268,92,221,92"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="269,133,497,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,107,286,128,285,133,198,112"/>
+</map>

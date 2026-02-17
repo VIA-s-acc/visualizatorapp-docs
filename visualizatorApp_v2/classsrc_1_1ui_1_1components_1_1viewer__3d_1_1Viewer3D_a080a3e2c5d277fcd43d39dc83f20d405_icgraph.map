@@ -1,0 +1,5 @@
+<map id="src.ui.components.viewer_3d.Viewer3D.clear_tech_columns" name="src.ui.components.viewer_3d.Viewer3D.clear_tech_columns">
+<area shape="rect" id="Node000001" title="Clear all technical columns from the plotter." alt="" coords="243,5,432,60"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#aa33461b123e6f6bf9875a05d4c96719d" title="Plot technical columns as lines/tubes." alt="" coords="5,5,195,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,35,195,35,195,30,229,30"/>
+</map>

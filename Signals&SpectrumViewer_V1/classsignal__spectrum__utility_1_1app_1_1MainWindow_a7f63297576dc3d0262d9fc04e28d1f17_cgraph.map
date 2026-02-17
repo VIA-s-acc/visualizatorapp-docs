@@ -1,0 +1,24 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_windows_worker_done" name="signal_spectrum_utility.app.MainWindow._on_windows_worker_done">
+<area shape="rect" id="Node000001" title="Apply segmentation worker result if it is the latest version." alt="" coords="5,203,292,243"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ab028eb63268171afb31fa61b673a29e4" title="Apply estimated segmentation parameters to editor controls." alt="" coords="348,5,573,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,201,240,137,287,101,339,69,350,63,352,68,341,74,291,105,243,141,172,205"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aa9c7660a7aa692cc2d3359021a04a458" title="Compute and render spectra through non&#45;blocking background worker." alt="" coords="340,163,581,217"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,205,326,202,327,207,293,211"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="645,234,849,274"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="293,228,632,245,632,251,292,233"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="633,298,861,338"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="173,241,244,295,291,322,341,342,381,352,423,357,507,358,587,351,657,338,658,344,588,356,507,364,422,362,380,357,339,347,289,327,241,300,170,245"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a882eb62e98e8acc81ad7ff5a8fb2a6cf" title="Render window overlays in signal plot." alt="" coords="353,84,568,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="199,201,339,147,359,141,360,146,341,153,201,206"/>
+<area shape="rect" id="Node000009" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="359,293,563,333"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="220,241,378,286,376,291,219,246"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad28d6d9ffd1fa9a84ab08be163a90f3c" title="Resolve selected UI entries into sensor/channel pairs." alt="" coords="629,167,865,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="582,186,616,186,616,191,582,192"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="582,214,645,228,643,234,581,220"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="504,215,563,250,630,284,650,291,648,296,628,288,560,255,502,220"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="565,136,659,161,658,166,564,141"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a6c1127ad6996a495168704cac6932efb" title="Remove current window overlay items from signal plot." alt="" coords="645,84,850,139"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="568,109,631,109,631,114,568,114"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="558,290,635,274,636,279,559,295"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="563,312,620,313,620,318,563,317"/>
+</map>

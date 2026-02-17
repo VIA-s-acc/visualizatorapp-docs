@@ -1,0 +1,65 @@
+<map id="signal_spectrum_utility.app.MainWindow._trf" name="signal_spectrum_utility.app.MainWindow._trf">
+<area shape="rect" id="Node000001" title="Translate key and format with runtime arguments." alt="" coords="1556,406,1760,446"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a460af90d4852961e41ccb6863ef63786" title="Create and append one manual window from start/end markers." alt="" coords="587,43,840,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1650,393,1637,329,1611,250,1592,210,1569,171,1540,137,1506,108,1464,83,1419,61,1372,44,1324,31,1224,14,1124,8,1028,11,938,20,793,46,792,41,937,15,1027,6,1124,3,1225,9,1325,26,1374,39,1421,57,1466,78,1510,104,1544,133,1573,168,1597,207,1616,248,1642,328,1655,392"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad1fcb5728785f68a40bbc9b39331a4ad" title="Apply editor X/Y offsets to selected signal." alt="" coords="291,99,495,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1645,394,1628,344,1599,284,1559,226,1535,200,1507,179,1471,161,1426,146,1313,124,1178,111,1030,105,878,105,732,109,496,121,496,116,732,103,878,100,1030,100,1178,106,1314,119,1427,141,1473,156,1509,175,1538,196,1563,222,1604,281,1632,342,1650,392"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a58e3cd25607a4792fe1897ca9601e694" title="Apply Y stacking offsets for all selected signals by render order." alt="" coords="931,163,1140,217"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1641,394,1621,353,1592,306,1553,260,1531,241,1507,224,1463,204,1416,189,1368,179,1319,173,1224,170,1140,176,1140,171,1224,165,1319,167,1369,173,1417,184,1465,199,1509,220,1534,236,1557,256,1596,303,1626,351,1646,392"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a890c9d710dbbb7edc572966603fd5ebb" title="Clear all manual windows and overlays when in manual mode." alt="" coords="611,229,815,284"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="1636,396,1614,364,1585,328,1549,294,1507,269,1451,252,1375,241,1284,236,1186,234,985,240,816,251,815,246,985,235,1186,229,1285,231,1375,236,1452,247,1509,264,1552,290,1589,324,1619,360,1641,393"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a40ecc1ee8646f456b0716fd65d360c6b" title="Export pairwise comparison metrics to CSV via toolbar action." alt="" coords="1229,278,1500,318"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="1619,400,1568,365,1507,333,1473,321,1475,316,1509,328,1570,360,1622,395"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#af2d416a49d1e15c1483bcab64c9c4e04" title="Export computed spectra to CSV via toolbar action." alt="" coords="1237,342,1492,382"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="1552,406,1456,385,1457,380,1553,401"/>
+<area shape="rect" id="Node000009" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#addc66005617d50e360868335e933cfa9" title="Export widget snapshot as PNG or SVG." alt="" coords="1240,406,1489,446"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="1542,429,1490,429,1490,423,1542,423"/>
+<area shape="rect" id="Node000013" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aa350c25d233b19ab229bb980ffcace99" title="Export current segmentation windows to JSON via toolbar action." alt="" coords="1237,470,1493,510"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1553,452,1457,473,1456,468,1552,447"/>
+<area shape="rect" id="Node000014" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a89b754f271f691c01d658a6408865a1b" title="Finalize moved region update and refresh dependent metrics." alt="" coords="1253,535,1477,589"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="1621,457,1570,492,1509,525,1477,537,1475,532,1507,520,1567,487,1618,452"/>
+<area shape="rect" id="Node000020" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a777616a3ba15ce50f102be14ce2076e0" title="Apply spectrum worker result if it is the latest version." alt="" coords="611,604,815,659"/>
+<area shape="poly" id="edge31_Node000001_Node000020" title=" " alt="" coords="1643,460,1621,496,1591,536,1554,575,1509,605,1452,623,1376,636,1286,644,1187,648,985,647,815,640,816,635,985,642,1187,643,1285,639,1375,631,1451,618,1507,600,1550,571,1587,533,1617,493,1638,457"/>
+<area shape="rect" id="Node000024" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7f63297576dc3d0262d9fc04e28d1f17" title="Apply segmentation worker result if it is the latest version." alt="" coords="1221,669,1508,709"/>
+<area shape="poly" id="edge32_Node000001_Node000024" title=" " alt="" coords="1646,460,1625,503,1595,554,1556,605,1510,648,1466,671,1464,666,1506,644,1552,601,1591,551,1620,500,1641,458"/>
+<area shape="rect" id="Node000026" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9b34b42124b42b350cce09d524a181ca" title="Reset editor&#45;selected signal offsets to zero." alt="" coords="291,705,495,760"/>
+<area shape="poly" id="edge34_Node000001_Node000026" title=" " alt="" coords="1654,460,1639,520,1612,593,1593,630,1570,665,1542,697,1509,723,1473,741,1428,756,1374,767,1314,776,1179,785,1030,785,878,780,732,770,495,748,496,742,733,765,879,774,1030,780,1179,779,1314,770,1373,762,1426,751,1471,736,1507,719,1539,693,1566,662,1589,627,1607,591,1634,518,1649,459"/>
+<area shape="rect" id="Node000027" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ae174397683a7c995ee6769808016056c" title="Save current UI state to a session JSON file." alt="" coords="1263,796,1467,851"/>
+<area shape="poly" id="edge36_Node000001_Node000027" title=" " alt="" coords="1654,460,1640,527,1614,612,1595,657,1571,701,1543,742,1510,779,1490,793,1468,805,1466,800,1487,789,1506,775,1539,739,1567,699,1590,655,1609,610,1635,526,1649,459"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="5,283,209,323"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="593,44,514,39,428,41,384,47,340,56,298,70,259,88,231,108,206,131,165,186,136,241,118,284,113,282,131,239,160,183,202,128,227,104,256,84,296,65,339,51,383,41,427,36,514,33,593,39"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="286,161,259,175,220,201,184,231,129,285,125,281,180,227,217,197,256,171,284,156"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="917,194,782,198,616,209,436,228,258,259,165,286,163,281,257,254,436,223,616,204,781,193,917,188"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="597,265,436,274,258,287,210,293,209,287,257,282,436,268,597,259"/>
+<area shape="rect" id="Node000010" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aa275abdfe178136aff8db23159a19ed9" title="Export combined charts container as PNG/SVG." alt="" coords="897,467,1173,507"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="1244,451,1144,470,1143,465,1243,446"/>
+<area shape="rect" id="Node000011" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac848dd7ecf1b3b75532b3cbb940d508d" title="Export signal chart as PNG/SVG." alt="" coords="913,339,1157,379"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="1252,406,1135,382,1136,377,1253,401"/>
+<area shape="rect" id="Node000012" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a51a602ad3b451fcf2c9ae651d3ecdf8c" title="Export spectrum chart as PNG/SVG." alt="" coords="902,403,1169,443"/>
+<area shape="poly" id="edge14_Node000009_Node000012" title=" " alt="" coords="1226,428,1169,427,1169,422,1226,422"/>
+<area shape="rect" id="Node000015" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9d260a91e77239b3641753342dbd10d5" title="Render spectrum range overlays." alt="" coords="933,532,1137,587"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="1239,564,1138,563,1138,558,1239,558"/>
+<area shape="rect" id="Node000016" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#afa9b9d2e8249ffc1d16b74e624bdccca" title="Add spectrum range and refresh overlays/metrics." alt="" coords="577,475,849,515"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="919,539,814,518,815,513,920,534"/>
+<area shape="rect" id="Node000019" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aa452e26f56cb0673aac98963556ceaf9" title="Apply drag&amp;drop order from ranges list to selected ranges model." alt="" coords="587,539,840,579"/>
+<area shape="poly" id="edge22_Node000015_Node000019" title=" " alt="" coords="919,562,840,562,840,557,919,557"/>
+<area shape="poly" id="edge24_Node000015_Node000020" title=" " alt="" coords="920,588,816,611,815,606,919,583"/>
+<area shape="rect" id="Node000022" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac65e6aae27845ba0d72670ceb4e471e5" title="Remove the most recently added spectrum range." alt="" coords="593,341,834,381"/>
+<area shape="poly" id="edge26_Node000015_Node000022" title=" " alt="" coords="919,537,896,521,883,508,876,494,870,466,865,438,859,425,848,412,825,396,800,383,803,378,828,391,851,408,863,422,870,437,876,465,881,492,888,505,899,517,922,533"/>
+<area shape="rect" id="Node000023" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a6c0bdbe1279622f8902bd6cb7edff90a" title="Remove currently selected range from explicit ranges list/model." alt="" coords="257,341,529,381"/>
+<area shape="poly" id="edge30_Node000015_Node000023" title=" " alt="" coords="919,534,896,522,880,507,871,493,863,479,848,466,799,449,709,427,499,383,500,378,710,422,800,444,851,461,867,475,876,490,884,504,899,517,922,530"/>
+<area shape="rect" id="Node000017" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#acf308170038ceac94d82321e114b6b63" title="Add a frequency range and render it on spectrum plot." alt="" coords="291,485,495,525"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="564,503,496,505,495,499,563,497"/>
+<area shape="rect" id="Node000018" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#adc1ea22f60dbf192c1578cc745234723" title="Persist range produced by interactive spectrum drag controller." alt="" coords="289,405,498,460"/>
+<area shape="poly" id="edge21_Node000016_Node000018" title=" " alt="" coords="597,475,498,456,499,451,598,470"/>
+<area shape="poly" id="edge20_Node000017_Node000003" title=" " alt="" coords="277,486,256,475,210,440,171,399,140,358,118,325,123,322,144,355,175,396,214,436,259,471,280,481"/>
+<area shape="poly" id="edge23_Node000019_Node000003" title=" " alt="" coords="598,584,518,591,430,589,385,583,340,573,297,559,256,539,226,518,200,491,158,431,129,371,112,325,117,323,134,369,162,428,204,488,229,514,259,535,299,554,341,568,385,578,430,584,518,585,598,579"/>
+<area shape="rect" id="Node000021" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a61eaa0ccad406a23975b462252e52a6d" title="Route spectrum completion from worker thread into UI thread." alt="" coords="291,604,495,659"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="598,634,496,634,496,629,598,629"/>
+<area shape="poly" id="edge27_Node000022_Node000003" title=" " alt="" coords="595,341,529,331,361,317,210,309,210,304,361,311,530,326,596,336"/>
+<area shape="poly" id="edge28_Node000022_Node000023" title=" " alt="" coords="579,363,530,363,530,358,579,358"/>
+<area shape="poly" id="edge29_Node000023_Node000003" title=" " alt="" coords="279,341,207,326,208,321,280,335"/>
+<area shape="rect" id="Node000025" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a27f06761cfc12c66f78788829b8565c8" title="Route segmentation completion from worker thread into UI thread." alt="" coords="912,665,1159,720"/>
+<area shape="poly" id="edge33_Node000024_Node000025" title=" " alt="" coords="1207,693,1159,694,1159,689,1207,688"/>
+<area shape="poly" id="edge35_Node000026_Node000003" title=" " alt="" coords="292,701,255,673,220,630,191,583,167,532,148,482,122,390,109,324,114,323,127,388,153,480,172,530,196,580,225,627,259,670,296,697"/>
+</map>

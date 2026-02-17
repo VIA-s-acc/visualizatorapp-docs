@@ -1,0 +1,34 @@
+<map id="signal_spectrum_utility.app.MainWindow._redraw_signal_plot" name="signal_spectrum_utility.app.MainWindow._redraw_signal_plot">
+<area shape="rect" id="Node000001" title="Render selected channels on time&#45;domain plot." alt="" coords="579,327,817,367"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad1fcb5728785f68a40bbc9b39331a4ad" title="Apply editor X/Y offsets to selected signal." alt="" coords="317,163,521,217"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="660,321,601,276,529,232,502,220,505,215,532,228,604,272,664,317"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a64ee5cb7933f7db053997be000333aab" title="Apply externally provided render order for currently selected channels." alt="" coords="317,5,521,60"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="683,315,661,263,628,199,584,132,558,102,529,75,511,62,514,58,532,71,562,98,588,129,633,196,666,261,688,313"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aa9629af4838d446c02f9a48cc1f4747b" title="Apply channel selection mapping to tree checkboxes." alt="" coords="312,84,527,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="675,317,616,236,575,192,529,154,508,141,511,136,532,149,579,188,620,232,679,314"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a58e3cd25607a4792fe1897ca9601e694" title="Apply Y stacking offsets for all selected signals by render order." alt="" coords="315,241,524,296"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="612,326,516,299,518,294,614,321"/>
+<area shape="rect" id="Node000009" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aa039b9655e78af79687ac559d19f7747" title="Move selected render&#45;order item one position down." alt="" coords="312,320,527,375"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="565,350,527,350,527,345,565,345"/>
+<area shape="rect" id="Node000010" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a8551eb69729308cced38f541dd2efbd4" title="Move selected render&#45;order item one position up." alt="" coords="312,399,527,453"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="614,374,518,401,516,396,612,369"/>
+<area shape="rect" id="Node000011" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#afb1d9b89b45b9ea33e655c6c50554b67" title="Handle changes in hierarchical channel selector." alt="" coords="308,477,531,532"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="664,379,604,424,532,468,507,480,505,475,529,464,601,419,661,374"/>
+<area shape="rect" id="Node000012" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aaafde4c5bf403a948213878525451ef0" title="Handle drag&amp;drop reorder completion for render&#45;order list." alt="" coords="317,556,521,611"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="680,381,620,463,579,508,532,547,513,558,510,554,529,542,575,504,616,460,675,378"/>
+<area shape="rect" id="Node000013" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9b34b42124b42b350cce09d524a181ca" title="Reset editor&#45;selected signal offsets to zero." alt="" coords="317,635,521,689"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="688,381,666,434,633,500,589,567,562,598,532,625,516,637,513,632,529,621,558,594,584,564,629,497,661,432,683,379"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="31,406,235,446"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,226,310,232,257,275,212,324,175,370,149,407,145,404,171,367,208,320,254,271,306,228,317,221"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a993b0ea8b7f44df0a841fbe17477af0e" title="Load UI state from a session JSON file." alt="" coords="31,9,235,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="303,37,235,38,235,33,303,32"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="300,83,234,66,235,61,301,78"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9e99a8167ee8dcc3be1d265e936261a3" title="Open settings dialog and apply changes when accepted." alt="" coords="5,91,260,131"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="298,114,260,114,260,109,298,109"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="324,304,309,311,227,361,161,408,158,403,224,356,307,306,322,299"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="307,381,207,408,206,403,305,376"/>
+<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="298,429,235,429,235,423,298,423"/>
+<area shape="poly" id="edge15_Node000011_Node000003" title=" " alt="" coords="305,476,206,449,207,444,307,471"/>
+<area shape="poly" id="edge17_Node000012_Node000003" title=" " alt="" coords="320,553,307,547,223,497,158,448,161,444,226,492,309,542,322,548"/>
+<area shape="poly" id="edge19_Node000013_Node000003" title=" " alt="" coords="314,630,306,625,254,582,207,533,170,485,145,448,149,445,175,482,211,529,257,578,310,621,316,626"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="src.ui.components.export_widget.ExportSection._browse_file" name="src.ui.components.export_widget.ExportSection._browse_file">
+<area shape="rect" id="Node000001" title="Open file browser dialog." alt="" coords="5,5,192,60"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1export__widget_1_1ExportSection.html#a4564ed8bbe93248c5bb5c2eadd418567" title="Update export button enabled state based on data and path availability." alt="" coords="240,5,452,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,30,226,30,226,35,192,35"/>
+</map>

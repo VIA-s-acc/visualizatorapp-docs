@@ -1,0 +1,16 @@
+<map id="signal_spectrum_utility.app.MainWindow._manual_mode_enabled" name="signal_spectrum_utility.app.MainWindow._manual_mode_enabled">
+<area shape="rect" id="Node000001" title="Determine whether manual window selection mode is enabled." alt="" coords="853,62,1063,117"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a460af90d4852961e41ccb6863ef63786" title="Create and append one manual window from start/end markers." alt="" coords="257,5,511,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="851,61,805,52,653,35,511,29,511,23,653,30,806,47,852,56"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a890c9d710dbbb7edc572966603fd5ebb" title="Clear all manual windows and overlays when in manual mode." alt="" coords="580,62,784,117"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="840,92,784,92,784,87,840,87"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9d075d4685829ae926fef7031c264bff" title="Handle segmentation method changes." alt="" coords="559,141,805,195"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="849,123,779,143,778,138,847,118"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="5,92,209,132"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,52,173,94,172,89,306,47"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="566,97,210,111,209,105,566,91"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="545,157,209,125,210,119,545,152"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a978bb5d46cde29969d5a302bcac34c40" title="Toggle manual marker visibility and align method state." alt="" coords="268,175,500,230"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="545,187,501,192,500,187,545,181"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="286,173,168,135,170,129,288,168"/>
+</map>

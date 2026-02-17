@@ -1,0 +1,9 @@
+<map id="src.profile.detection.DetectionResult" name="src.profile.detection.DetectionResult">
+<area shape="rect" id="Node000001" title="Result of movement detection." alt="" coords="124,168,343,208"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1profile_1_1detection_1_1MovementMode.html" title="Movement mode for profile sensors." alt="" coords="5,80,267,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,113,215,166,212,170,156,117"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="107,5,165,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,45,139,80,133,80,133,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="291,80,368,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,117,255,170,251,166,306,113"/>
+</map>

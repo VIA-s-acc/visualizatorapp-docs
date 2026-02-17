@@ -1,0 +1,5 @@
+<map id="src.data.models.GeoData" name="src.data.models.GeoData">
+<area shape="rect" id="Node000001" title="Core geologic data model." alt="" coords="5,137,192,163"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="60,5,137,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,44,101,137,96,137,96,44"/>
+</map>

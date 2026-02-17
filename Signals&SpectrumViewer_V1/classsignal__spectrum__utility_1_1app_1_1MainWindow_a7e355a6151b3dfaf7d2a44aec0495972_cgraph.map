@@ -1,0 +1,7 @@
+<map id="signal_spectrum_utility.app.MainWindow._trf" name="signal_spectrum_utility.app.MainWindow._trf">
+<area shape="rect" id="Node000001" title="Translate key and format with runtime arguments." alt="" coords="5,37,209,77"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="269,5,473,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,42,256,37,256,42,210,48"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="257,69,485,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,67,244,71,243,77,209,72"/>
+</map>

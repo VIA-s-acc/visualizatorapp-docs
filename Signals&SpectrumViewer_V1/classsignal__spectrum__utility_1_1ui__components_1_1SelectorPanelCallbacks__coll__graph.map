@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.ui_components.SelectorPanelCallbacks" name="signal_spectrum_utility.ui_components.SelectorPanelCallbacks">
+<area shape="rect" id="Node000001" title="Callbacks required to wire selector panel interactions." alt="" coords="5,313,269,353"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="100,5,175,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,44,140,313,135,313,135,44"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="signal_spectrum_utility.app.MainWindow._remove_last_range" name="signal_spectrum_utility.app.MainWindow._remove_last_range">
+<area shape="rect" id="Node000001" title="Remove the most recently added spectrum range." alt="" coords="577,5,819,45"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="5,5,209,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="563,25,529,24,257,24,209,25,209,20,257,19,529,19,563,19"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a6c0bdbe1279622f8902bd6cb7edff90a" title="Remove currently selected range from explicit ranges list/model." alt="" coords="257,33,529,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="564,40,530,43,529,38,564,35"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="243,41,209,38,210,33,244,36"/>
+</map>

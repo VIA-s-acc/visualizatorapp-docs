@@ -1,0 +1,25 @@
+<map id="signal_spectrum_utility.app.MainWindow._render_range_overlays" name="signal_spectrum_utility.app.MainWindow._render_range_overlays">
+<area shape="rect" id="Node000001" title="Render spectrum range overlays." alt="" coords="897,201,1101,255"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#afa9b9d2e8249ffc1d16b74e624bdccca" title="Add spectrum range and refresh overlays/metrics." alt="" coords="577,72,849,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="954,194,905,158,848,126,816,115,818,110,850,122,908,154,957,190"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aa452e26f56cb0673aac98963556ceaf9" title="Apply drag&amp;drop order from ranges list to selected ranges model." alt="" coords="587,136,840,176"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="884,200,849,191,800,179,801,173,850,185,885,195"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a777616a3ba15ce50f102be14ce2076e0" title="Apply spectrum worker result if it is the latest version." alt="" coords="611,201,815,255"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="883,231,816,231,816,225,883,225"/>
+<area shape="rect" id="Node000009" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac65e6aae27845ba0d72670ceb4e471e5" title="Remove the most recently added spectrum range." alt="" coords="593,280,834,320"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="885,260,850,269,797,283,796,277,849,264,883,255"/>
+<area shape="rect" id="Node000010" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a6c0bdbe1279622f8902bd6cb7edff90a" title="Remove currently selected range from explicit ranges list/model." alt="" coords="257,331,529,371"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="961,267,911,304,881,321,850,335,769,355,686,366,604,369,530,367,530,362,604,364,685,361,768,350,848,329,879,317,908,300,958,262"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#acf308170038ceac94d82321e114b6b63" title="Add a frequency range and render it on spectrum plot." alt="" coords="291,5,495,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="603,72,490,48,491,43,604,67"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#adc1ea22f60dbf192c1578cc745234723" title="Persist range produced by interactive spectrum drag controller." alt="" coords="289,70,498,125"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="563,97,498,98,498,93,563,92"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="5,208,209,248"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="280,49,259,60,214,94,175,135,144,176,123,209,118,206,140,173,171,132,210,90,256,55,277,44"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="573,162,421,171,258,191,173,211,172,205,257,185,420,166,572,156"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a61eaa0ccad406a23975b462252e52a6d" title="Route spectrum completion from worker thread into UI thread." alt="" coords="291,201,495,255"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="598,231,496,231,496,225,598,225"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="579,299,424,289,257,269,175,251,176,245,258,264,424,284,579,294"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="580,324,521,333,520,328,579,319"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="297,329,256,314,192,283,138,251,141,246,195,278,258,310,298,324"/>
+</map>

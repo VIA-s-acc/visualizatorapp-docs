@@ -1,0 +1,9 @@
+<map id="src.ui.main_window.StandardModeWindow._on_view_toggle_requested" name="src.ui.main_window.StandardModeWindow._on_view_toggle_requested">
+<area shape="rect" id="Node000001" title="Handle view toggle request." alt="" coords="5,70,228,125"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="277,5,489,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,67,295,46,296,52,219,72"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="276,70,491,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,95,263,95,263,100,228,100"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a4cdbedc2832c4ff8e4c408ec391987bd" title="Set the current visible bottom tab (dock widget)" alt="" coords="277,149,489,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,122,278,142,276,147,209,127"/>
+</map>

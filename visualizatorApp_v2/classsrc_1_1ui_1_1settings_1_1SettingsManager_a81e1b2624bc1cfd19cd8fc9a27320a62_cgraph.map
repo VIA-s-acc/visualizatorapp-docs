@@ -1,0 +1,22 @@
+<map id="src.ui.settings.SettingsManager.clear_config_file" name="src.ui.settings.SettingsManager.clear_config_file">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,192,221"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1settings_1_1SettingsManager.html#a980958d08f8c9c4620f525e547a5f357" title=" " alt="" coords="267,77,437,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,179,289,120,291,125,149,184"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1utils_1_1config__manager_1_1ConfigManager.html#aff29b32ae4e7ceb38eb3926640879ec2" title="Reset configuration to defaults." alt="" coords="240,213,464,253"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,210,227,215,226,220,192,216"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1settings_1_1SettingsManager.html#aab2a086bbe1f9da77a67d5516efcb8e4" title=" " alt="" coords="559,5,729,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,75,511,55,546,46,548,51,513,60,433,80"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1utils_1_1config__manager_1_1ConfigManager.html#a9357192612377838239e1e18492206da" title="Get default configuration." alt="" coords="549,70,739,125"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="381,211,439,173,511,135,535,125,537,130,513,140,442,178,383,215"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1utils_1_1config__manager_1_1ConfigManager.html#a3aaaba856c5fbd1ff45e1a17da514e6f" title="Save configuration to file." alt="" coords="533,149,755,189"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="444,211,539,190,540,195,445,216"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1core_1_1interfaces_1_1IVisualizationBackend.html#aaa3f687240faca61c0a6b3564f0b8f39" title="Save plot to file." alt="" coords="527,213,761,253"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="464,231,513,231,513,236,464,236"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#ad9d45c61c64ef3b99302fe57a249e174" title="Save plot to file." alt="" coords="512,277,776,317"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="445,251,540,272,539,277,444,256"/>
+<area shape="rect" id="Node000009" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#ac17696977e17f03d99dd264dd9708af9" title="Save plot to file." alt="" coords="527,341,761,381"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="382,251,441,290,513,327,534,335,532,340,511,332,438,294,379,256"/>
+<area shape="rect" id="Node000010" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#a0997755df813aaa0fcaaed250f503258" title="Save plot to file." alt="" coords="521,429,767,469"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="371,252,430,319,470,357,513,391,571,422,568,426,511,396,466,361,426,322,367,255"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="590,430,587,420,596,410,615,405,644,403,678,405,696,413,694,418,676,411,644,408,616,410,599,415,592,421,595,428"/>
+</map>

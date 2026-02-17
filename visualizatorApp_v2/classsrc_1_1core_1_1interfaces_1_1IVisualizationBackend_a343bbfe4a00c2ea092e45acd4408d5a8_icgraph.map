@@ -1,0 +1,9 @@
+<map id="src.core.interfaces.IVisualizationBackend.show" name="src.core.interfaces.IVisualizationBackend.show">
+<area shape="rect" id="Node000001" title="Display the plot." alt="" coords="268,73,503,113"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1loading__spinner_1_1LoadingSpinner.html#a810a143aa64fbb8c79fc82d2153e3bfc" title="Start the spinner animation." alt="" coords="6,29,219,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,75,219,69,220,64,255,70"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1loading__spinner_1_1LoadingOverlay.html#a6973894de1600a777105dc2019b93d74" title="Show overlay and start spinner." alt="" coords="5,117,220,157"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="255,117,221,123,220,117,254,112"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="159,18,143,11,113,8,86,10,70,15,64,21,67,28,62,30,59,20,67,10,85,5,113,3,144,5,161,13"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="159,106,143,99,113,96,86,98,70,103,64,109,67,116,62,118,59,108,67,98,85,93,113,91,144,93,161,101"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="src.visualization.backends.pyvista_backend.PyVistaBackend.initialize" name="src.visualization.backends.pyvista_backend.PyVistaBackend.initialize">
+<area shape="rect" id="Node000001" title="Initialize the PyVista plotter." alt="" coords="668,520,919,560"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#a7c4f9580dfc2098a770af3307c8132be" title="Context manager entry." alt="" coords="337,5,611,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="788,506,778,416,768,358,752,295,730,230,702,167,664,109,618,59,602,48,605,43,622,55,669,106,706,165,735,228,757,293,773,357,784,415,793,506"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#a682e32dc8411e4b31fb4fc7c918f45ba" title="Context manager entry." alt="" coords="351,69,597,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="786,507,772,427,744,323,722,268,694,215,660,166,618,123,595,109,598,104,622,119,664,162,699,212,727,266,749,321,778,426,791,506"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#aa6632454cb56fab33005d02c220b041d" title="Context manager entry." alt="" coords="345,133,603,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="783,507,766,439,735,352,713,306,686,262,655,222,618,187,600,176,603,171,622,183,659,219,691,259,718,304,740,350,771,437,788,506"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#a4eb77475a86621c62ecbd02a4f5d5be7" title="Display isosurface." alt="" coords="342,198,606,253"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="778,508,756,454,722,389,676,322,649,292,618,266,601,255,603,251,622,262,653,288,680,319,727,386,761,452,783,506"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#a03aa54949de4e1f449702c02b8eb4741" title="Display isosurface." alt="" coords="357,277,591,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="771,510,745,471,710,427,667,382,619,345,590,331,593,326,621,340,671,378,714,423,749,468,775,507"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#a7c66c37f683defd4910578b5bc6e8ccb" title="Display isosurface." alt="" coords="351,355,597,410"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="756,513,695,467,619,424,591,412,593,408,621,419,697,463,760,509"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#ac93b4d69d2dcc281070aab8cd1b01954" title="Display 3D scatter plot." alt="" coords="342,434,606,489"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="697,519,585,491,586,486,699,514"/>
+<area shape="rect" id="Node000009" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#a929e4db60e23edd56e5f65f1b5d12691" title="Display 3D scatter plot." alt="" coords="357,513,591,567"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="654,543,591,543,591,537,654,537"/>
+<area shape="rect" id="Node000010" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#ad572e6deb9511fe2b4a488506da33916" title="Display 3D scatter plot." alt="" coords="351,591,597,646"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="699,566,586,594,585,589,697,561"/>
+<area shape="rect" id="Node000011" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#a8b1bc2094b2893a3bc545898e0326e4c" title="Display 2D slice of 3D grid." alt="" coords="5,769,280,809"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="761,571,699,617,661,641,621,660,578,675,541,684,476,690,410,695,372,701,329,712,251,741,184,772,182,767,249,736,327,707,371,696,409,689,475,685,540,678,577,670,619,655,658,636,696,613,757,567"/>
+<area shape="rect" id="Node000012" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#ac2d932ee26875a695669f9068d052b64" title="Display 2D slice of 3D grid." alt="" coords="351,721,597,761"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="770,573,707,640,666,675,621,705,577,724,575,719,619,700,663,671,703,636,766,569"/>
+<area shape="rect" id="Node000013" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#aa974791e88578dde7e472872bc959722" title="Display 2D slice of 3D grid." alt="" coords="345,785,603,825"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="780,574,756,620,721,675,676,730,650,754,621,776,598,788,596,783,619,771,646,750,672,726,717,672,751,617,775,571"/>
+<area shape="rect" id="Node000014" href="$classsrc_1_1visualization_1_1backends_1_1matplotlib__backend_1_1MatplotlibBackend.html#a85c4ba8d4802b8bc012352a46b56126e" title="Display surface plot." alt="" coords="328,873,620,913"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="784,574,762,630,728,701,681,775,653,809,622,839,591,860,556,876,554,871,588,856,618,835,649,805,677,772,723,699,757,628,779,572"/>
+<area shape="rect" id="Node000015" href="$classsrc_1_1visualization_1_1backends_1_1plotly__backend_1_1PlotlyBackend.html#a121a3e45cd450c7e2efc93b8eb7f8ac8" title="Display surface plot." alt="" coords="343,937,605,977"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="790,574,774,648,744,744,722,794,695,843,661,888,622,927,603,939,600,935,618,923,657,885,690,840,717,792,739,742,769,647,785,573"/>
+<area shape="rect" id="Node000016" href="$classsrc_1_1visualization_1_1backends_1_1pyvista__backend_1_1PyVistaBackend.html#a5d43a3b5dec1b26a3be9b73061a4ec6d" title="Display surface plot." alt="" coords="337,1001,611,1041"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="792,574,781,659,769,714,753,772,731,832,702,891,666,945,622,991,604,1003,601,999,618,987,662,941,698,888,726,830,748,771,764,712,775,658,787,574"/>
+<area shape="poly" id="edge14_Node000014_Node000011" title=" " alt="" coords="396,872,207,812,209,807,397,867"/>
+<area shape="poly" id="edge15_Node000014_Node000014" title=" " alt="" coords="529,862,509,855,474,852,443,854,424,859,417,865,421,872,416,874,412,864,422,854,442,849,474,847,511,849,530,857"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.metrics.pairwise_metrics" name="signal_spectrum_utility.metrics.pairwise_metrics">
+<area shape="rect" id="Node000001" title="Compute pairwise comparisons for all selected ranges." alt="" coords="5,5,289,45"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1metrics.html#ab854feebdd5e3a13edd4cd4317b5bbc7" title="Slice frequency/amplitude arrays by selected range." alt="" coords="337,5,567,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,23,324,23,324,28,289,28"/>
+</map>

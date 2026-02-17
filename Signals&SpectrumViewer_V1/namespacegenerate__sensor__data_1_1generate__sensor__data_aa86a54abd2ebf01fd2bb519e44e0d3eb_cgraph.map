@@ -1,0 +1,9 @@
+<map id="generate_sensor_data.generate_sensor_data._generate_run" name="generate_sensor_data.generate_sensor_data._generate_run">
+<area shape="rect" id="Node000001" title="Generate one dataset run." alt="" coords="5,37,233,77"/>
+<area shape="rect" id="Node000002" href="$namespacegenerate__sensor__data_1_1generate__sensor__data.html#aeddb4ea4a3817ce51f783db98bf70948" title="Apply scenario events to generated baseline signals." alt="" coords="281,5,509,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,41,267,37,268,43,234,47"/>
+<area shape="rect" id="Node000004" href="$namespacegenerate__sensor__data_1_1generate__sensor__data.html#ad7209aa19ad9805ac6f2a1aeaf45d67e" title="Create time axis for requested duration and sample rate." alt="" coords="281,69,509,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,68,268,72,267,77,233,73"/>
+<area shape="rect" id="Node000003" href="$namespacegenerate__sensor__data_1_1generate__sensor__data.html#ad28c22dfcacf56495f101ec0dd1ff8f2" title="Convert a value to float with fallback." alt="" coords="557,5,785,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="509,23,544,23,544,28,509,28"/>
+</map>

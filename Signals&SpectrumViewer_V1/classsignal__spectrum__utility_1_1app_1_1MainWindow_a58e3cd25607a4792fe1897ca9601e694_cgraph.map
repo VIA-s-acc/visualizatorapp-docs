@@ -1,0 +1,15 @@
+<map id="signal_spectrum_utility.app.MainWindow._apply_y_stack_offsets" name="signal_spectrum_utility.app.MainWindow._apply_y_stack_offsets">
+<area shape="rect" id="Node000001" title="Apply Y stacking offsets for all selected signals by render order." alt="" coords="5,77,215,132"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a486ddfbedb519908c2b570b8081bdb90" title="Load offsets of currently selected signal into editor controls." alt="" coords="271,5,493,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,75,265,61,266,66,215,80"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac06f20660046bee87a63d74aa3c09389" title="Render selected channels on time&#45;domain plot." alt="" coords="263,85,501,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,102,249,102,249,107,215,107"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="280,149,484,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="215,127,283,143,282,148,214,132"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#accf96e1cd1ca9feff48db63045e0d8ce" title="Get currently selected signal key in offset editor." alt="" coords="549,13,785,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,30,536,30,536,35,493,35"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="565,117,769,157"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="484,155,551,147,552,152,484,160"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="553,181,781,221"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="484,177,540,184,539,189,484,183"/>
+</map>

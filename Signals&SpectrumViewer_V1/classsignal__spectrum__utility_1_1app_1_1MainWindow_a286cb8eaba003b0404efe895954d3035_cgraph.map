@@ -1,0 +1,11 @@
+<map id="signal_spectrum_utility.app.MainWindow._selected_metrics_spectrum" name="signal_spectrum_utility.app.MainWindow._selected_metrics_spectrum">
+<area shape="rect" id="Node000001" title="Return currently selected spectrum source for metrics." alt="" coords="5,30,232,85"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a588a045f5bda98e3e53a2d60da6aa778" title="Build an averaged spectrum across all currently available spectra." alt="" coords="280,30,488,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,55,266,55,266,60,232,60"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="548,5,752,45"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="213,27,280,15,345,9,412,7,534,12,534,17,412,13,345,14,280,20,214,33"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="536,69,764,109"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="214,82,280,95,404,102,522,98,522,104,404,107,280,100,213,87"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,42,534,37,535,42,489,47"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="489,67,523,71,522,77,488,72"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="signal_spectrum_utility.app.MainWindow._on_order_list_reordered" name="signal_spectrum_utility.app.MainWindow._on_order_list_reordered">
+<area shape="rect" id="Node000001" title="Handle drag&amp;drop reorder completion for render&#45;order list." alt="" coords="5,77,209,132"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#aac0a56ebf5bfb9bf1f729eff4c810c04" title="Return current render&#45;order keys from list widget in visual order." alt="" coords="271,5,482,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,75,260,61,262,66,210,80"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac06f20660046bee87a63d74aa3c09389" title="Render selected channels on time&#45;domain plot." alt="" coords="257,85,496,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,102,244,102,244,107,209,107"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a5c82de009b1bbc2ddb273d27ab19023f" title="Refresh offset target selector from current render order." alt="" coords="273,149,480,204"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,129,262,143,260,148,209,134"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a486ddfbedb519908c2b570b8081bdb90" title="Load offsets of currently selected signal into editor controls." alt="" coords="544,149,767,204"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="480,174,531,174,531,179,480,179"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#accf96e1cd1ca9feff48db63045e0d8ce" title="Get currently selected signal key in offset editor." alt="" coords="815,157,1051,197"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="767,174,801,174,801,179,767,179"/>
+</map>

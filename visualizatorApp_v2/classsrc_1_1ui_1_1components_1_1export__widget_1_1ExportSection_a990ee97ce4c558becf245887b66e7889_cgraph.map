@@ -1,0 +1,5 @@
+<map id="src.ui.components.export_widget.ExportSection.set_data_available" name="src.ui.components.export_widget.ExportSection.set_data_available">
+<area shape="rect" id="Node000001" title="Set whether data is available for export." alt="" coords="5,5,196,60"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1export__widget_1_1ExportSection.html#a4564ed8bbe93248c5bb5c2eadd418567" title="Update export button enabled state based on data and path availability." alt="" coords="244,5,456,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,30,230,30,230,35,196,35"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.ui_components.build_charts_panel" name="signal_spectrum_utility.ui_components.build_charts_panel">
+<area shape="rect" id="Node000001" title="Build charts/comparison panel using explicit callbacks." alt="" coords="5,13,240,53"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1ui__components.html#a594ccde52caf3cba2dd0e3e9501ef8bf" title="Append a simple collapsible section and return its body layout." alt="" coords="288,5,509,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,30,274,30,274,35,240,35"/>
+</map>

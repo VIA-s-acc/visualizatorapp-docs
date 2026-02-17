@@ -1,0 +1,7 @@
+<map id="src.ui.main_window.StandardModeWindow._on_clear_visualization" name="src.ui.main_window.StandardModeWindow._on_clear_visualization">
+<area shape="rect" id="Node000001" title="Clear all visualizations from 3D viewer." alt="" coords="5,41,271,81"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="320,5,532,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,42,306,38,306,43,271,47"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="319,70,533,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,75,305,80,304,85,270,81"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.segmentation.variance_windows" name="signal_spectrum_utility.segmentation.variance_windows">
+<area shape="rect" id="Node000001" title="Find high&#45;variance local windows." alt="" coords="5,5,332,45"/>
+<area shape="rect" id="Node000002" href="$namespacesignal__spectrum__utility_1_1segmentation.html#a27ff45acf3d74c1f15f17f00f49aba17" title="Build window label from index." alt="" coords="380,5,651,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,23,366,23,366,28,332,28"/>
+</map>

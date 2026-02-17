@@ -1,0 +1,11 @@
+<map id="signal_spectrum_utility.app.MainWindow._set_manual_markers_visible" name="signal_spectrum_utility.app.MainWindow._set_manual_markers_visible">
+<area shape="rect" id="Node000001" title="Set visibility of manual selection markers." alt="" coords="832,39,1084,93"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a978bb5d46cde29969d5a302bcac34c40" title="Toggle manual marker visibility and align method state." alt="" coords="257,5,489,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="818,61,489,42,490,37,818,55"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9d075d4685829ae926fef7031c264bff" title="Handle segmentation method changes." alt="" coords="537,71,784,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="819,84,785,87,784,82,818,78"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="5,46,209,86"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,52,210,56,209,51,243,46"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="526,70,489,62,490,56,527,65"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="523,93,209,75,210,69,524,87"/>
+</map>

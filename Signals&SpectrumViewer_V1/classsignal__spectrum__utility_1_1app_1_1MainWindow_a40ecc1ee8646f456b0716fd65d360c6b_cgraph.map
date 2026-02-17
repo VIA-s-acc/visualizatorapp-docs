@@ -1,0 +1,19 @@
+<map id="signal_spectrum_utility.app.MainWindow._export_comparison_csv" name="signal_spectrum_utility.app.MainWindow._export_comparison_csv">
+<area shape="rect" id="Node000001" title="Export pairwise comparison metrics to CSV via toolbar action." alt="" coords="5,105,276,145"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a286cb8eaba003b0404efe895954d3035" title="Return currently selected spectrum source for metrics." alt="" coords="324,79,551,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,113,310,111,310,117,276,119"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="867,26,1071,66"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="197,102,323,63,457,30,563,9,670,3,807,11,870,21,869,26,806,17,670,8,564,15,458,35,325,68,199,107"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="855,151,1083,191"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="193,142,304,179,376,199,456,217,542,232,630,240,719,240,806,230,862,215,913,195,915,200,864,220,807,235,719,245,630,245,541,237,455,223,375,204,303,184,192,147"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="601,181,805,221"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="277,140,587,182,587,188,276,145"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a588a045f5bda98e3e53a2d60da6aa778" title="Build an averaged spectrum across all currently available spectra." alt="" coords="599,51,807,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="551,91,584,88,585,93,551,97"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="487,76,540,53,598,35,663,26,730,23,853,28,853,33,730,28,664,31,599,41,542,58,490,81"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="551,117,841,153,841,158,550,122"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="807,63,853,57,854,62,807,68"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="782,103,899,144,897,149,780,108"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="737,178,920,71,922,75,740,183"/>
+<area shape="poly" id="edge11_Node000006_Node000005" title=" " alt="" coords="804,187,840,183,841,188,805,192"/>
+</map>

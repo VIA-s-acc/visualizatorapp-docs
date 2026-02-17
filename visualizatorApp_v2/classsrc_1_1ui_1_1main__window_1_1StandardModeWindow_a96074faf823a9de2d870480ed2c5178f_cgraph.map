@@ -1,0 +1,7 @@
+<map id="src.ui.main_window.StandardModeWindow._on_load_progress" name="src.ui.main_window.StandardModeWindow._on_load_progress">
+<area shape="rect" id="Node000001" title="Handle load progress." alt="" coords="5,41,240,81"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="289,5,501,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,43,275,38,276,44,240,49"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="288,70,503,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,74,275,79,274,84,240,79"/>
+</map>

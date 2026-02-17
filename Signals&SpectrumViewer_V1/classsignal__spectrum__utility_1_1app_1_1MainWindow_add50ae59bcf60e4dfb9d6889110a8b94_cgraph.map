@@ -1,0 +1,5 @@
+<map id="signal_spectrum_utility.app.MainWindow._selected_channel_mapping" name="signal_spectrum_utility.app.MainWindow._selected_channel_mapping">
+<area shape="rect" id="Node000001" title="Collect currently checked channels grouped by sensor." alt="" coords="5,5,235,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9e055c72cfd9eb1cd4cf22e8f55e5436" title="Collect checked channel keys in tree traversal order." alt="" coords="283,13,547,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,30,269,30,269,35,235,35"/>
+</map>

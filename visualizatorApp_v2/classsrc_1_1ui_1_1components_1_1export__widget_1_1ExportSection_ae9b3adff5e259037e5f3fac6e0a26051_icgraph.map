@@ -1,0 +1,24 @@
+<map id="src.ui.components.export_widget.ExportSection._setup_controls" name="src.ui.components.export_widget.ExportSection._setup_controls">
+<area shape="rect" id="Node000001" title="Setup export controls." alt="" coords="316,324,503,379"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1export__widget_1_1ExportSection.html#ab709e14eb478ef3c9dcc9888695bfa22" title="Constructor." alt="" coords="43,29,230,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,312,376,263,349,205,313,148,291,122,266,99,229,78,232,73,270,95,295,118,317,145,354,203,381,261,399,310"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html#ad9b1c69fc3e1f89be6f59d41fdde7c86" title="Constructor." alt="" coords="6,133,267,173"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="383,313,335,248,303,215,267,187,243,175,246,170,269,182,306,211,339,244,387,310"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1DetectionSection.html#a6a39746567719ab336fcd252d8357021" title="Constructor." alt="" coords="37,221,236,276"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="340,321,267,290,235,279,236,273,269,285,342,316"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1MergingSection.html#a98e630e07d83ee04a37b2ad3d8633a77" title="Constructor." alt="" coords="42,324,231,379"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="302,354,232,354,232,349,302,349"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1ProfileInterpolationSection.html#a491c7dd6ef332d94087c91b3a8d61ab9" title="Constructor." alt="" coords="7,427,267,481"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="324,386,211,429,209,424,322,381"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerSection.html#adccfd3bb1d64c9bf14ce580e3553e6c6" title="Constructor." alt="" coords="9,529,265,584"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="379,391,330,443,270,495,206,532,203,527,266,490,326,439,375,388"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html#a4864668c89a80b04d3f587873e0f4fdb" title="Constructor." alt="" coords="5,633,268,673"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="397,392,377,439,350,493,314,548,270,597,239,619,206,635,204,630,237,614,266,593,310,545,345,490,372,436,392,390"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="182,18,166,11,137,8,112,10,96,15,89,21,89,29,84,29,84,19,94,10,111,5,137,3,167,6,185,14"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="183,121,167,114,137,111,110,113,94,118,88,124,91,131,86,133,83,123,91,114,109,108,137,106,168,109,185,116"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="182,210,166,203,137,200,112,202,96,207,89,213,89,221,84,221,84,211,94,202,111,197,137,195,167,198,185,206"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="182,313,166,306,137,303,112,305,96,309,89,316,89,324,84,324,84,314,94,305,111,299,137,297,167,300,185,308"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="182,416,166,408,137,405,112,407,96,412,89,419,89,427,84,427,84,416,94,408,111,402,137,400,167,403,185,411"/>
+<area shape="poly" id="edge12_Node000007_Node000007" title=" " alt="" coords="182,518,166,511,137,508,112,510,96,515,89,521,89,529,84,529,84,519,94,510,111,505,137,503,167,506,185,514"/>
+<area shape="poly" id="edge14_Node000008_Node000008" title=" " alt="" coords="183,621,167,614,137,611,110,613,94,618,88,624,91,631,86,633,83,623,91,614,109,608,137,606,168,609,185,616"/>
+</map>

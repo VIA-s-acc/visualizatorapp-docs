@@ -1,0 +1,9 @@
+<map id="src.ui.components.viewer_3d.Viewer3D.clear" name="src.ui.components.viewer_3d.Viewer3D.clear">
+<area shape="rect" id="Node000001" title="Clear all plots." alt="" coords="5,29,195,69"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="56,30,53,20,60,10,76,5,100,3,128,6,143,13,140,18,126,11,100,8,77,10,63,15,58,21,61,28"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a052af1f70b0199c2fe66bae174e68efa" title="Initialize plotter with default settings." alt="" coords="243,22,432,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,47,229,47,229,52,195,52"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a300e3b3722af958ae715235631103d73" title="Set background color." alt="" coords="480,29,699,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,47,466,47,466,52,432,52"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="543,30,540,20,547,10,564,5,589,3,618,6,634,13,632,18,617,11,589,8,565,10,550,15,545,21,548,28"/>
+</map>

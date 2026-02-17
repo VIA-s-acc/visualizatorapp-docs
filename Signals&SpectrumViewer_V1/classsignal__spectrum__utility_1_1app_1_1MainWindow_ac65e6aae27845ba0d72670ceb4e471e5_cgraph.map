@@ -1,0 +1,34 @@
+<map id="signal_spectrum_utility.app.MainWindow._remove_last_range" name="signal_spectrum_utility.app.MainWindow._remove_last_range">
+<area shape="rect" id="Node000001" title="Remove the most recently added spectrum range." alt="" coords="5,101,247,141"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a1a1f2f48708bebbd8e4b819dce604071" title="Recompute range metrics and refresh comparison tables." alt="" coords="829,224,1033,279"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,138,353,183,449,205,547,224,686,239,815,247,815,252,686,245,546,229,448,210,351,188,191,144"/>
+<area shape="rect" id="Node000008" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9d260a91e77239b3641753342dbd10d5" title="Render spectrum range overlays." alt="" coords="295,94,499,148"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="247,118,281,118,281,124,247,124"/>
+<area shape="rect" id="Node000012" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ad9ffa140fa55a7c41d69fb3138314b5a" title="Sync explicit ranges model/view list with current selected ranges." alt="" coords="1092,36,1316,76"/>
+<area shape="poly" id="edge19_Node000001_Node000012" title=" " alt="" coords="186,98,348,52,446,29,546,13,689,3,832,7,965,17,1078,32,1078,37,965,23,832,12,689,9,547,18,447,35,349,57,188,103"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2f02c1eb5966b58336d4efafa647b742" title="Apply pairwise metric visibility filters to comparison table columns." alt="" coords="1097,303,1311,358"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1027,276,1096,296,1094,301,1026,281"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a286cb8eaba003b0404efe895954d3035" title="Return currently selected spectrum source for metrics." alt="" coords="1091,224,1317,279"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1033,249,1077,249,1077,254,1033,254"/>
+<area shape="rect" id="Node000005" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a588a045f5bda98e3e53a2d60da6aa778" title="Build an averaged spectrum across all currently available spectra." alt="" coords="1365,252,1573,307"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1318,261,1352,264,1351,270,1317,266"/>
+<area shape="rect" id="Node000006" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a2d79b325f627339b7138b36a1b47554b" title="Translate small set of runtime UI labels/messages." alt="" coords="1633,194,1837,234"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="1317,241,1620,220,1620,225,1318,246"/>
+<area shape="rect" id="Node000007" href="$classsignal__spectrum__utility_1_1settings__dialog_1_1SettingsDialog.html#a1c65f1e83a88f38641466fff80b97b69" title="_tr function." alt="" coords="1621,260,1849,300"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="1289,277,1319,289,1342,305,1366,317,1404,325,1443,329,1521,327,1596,316,1659,301,1660,306,1597,321,1522,332,1443,334,1403,330,1364,322,1339,309,1316,294,1287,282"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1573,251,1639,235,1641,240,1574,257"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1574,277,1608,277,1608,282,1574,282"/>
+<area shape="rect" id="Node000009" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#ac467df8b8ddea544720c19b4ea378d07" title="Remove current range overlay items from spectrum plot." alt="" coords="557,28,761,83"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="498,93,543,82,544,87,500,98"/>
+<area shape="rect" id="Node000010" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a89b754f271f691c01d658a6408865a1b" title="Finalize moved region update and refresh dependent metrics." alt="" coords="547,159,771,214"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="500,144,536,153,535,158,498,149"/>
+<area shape="rect" id="Node000011" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a89b39ab8c36068c69866488650b9c322" title="Sync moved region boundaries back into selected range model." alt="" coords="819,94,1043,148"/>
+<area shape="poly" id="edge18_Node000008_Node000011" title=" " alt="" coords="499,118,805,118,805,124,499,124"/>
+<area shape="poly" id="edge14_Node000010_Node000002" title=" " alt="" coords="771,210,816,221,815,226,770,216"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="770,157,805,148,806,153,771,162"/>
+<area shape="rect" id="Node000013" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a7e355a6151b3dfaf7d2a44aec0495972" title="Translate key and format with runtime arguments." alt="" coords="1367,137,1571,177"/>
+<area shape="poly" id="edge15_Node000010_Node000013" title=" " alt="" coords="771,179,1353,158,1353,164,771,185"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1042,92,1106,76,1107,81,1043,97"/>
+<area shape="poly" id="edge16_Node000013_Node000006" title=" " alt="" coords="1563,174,1629,189,1628,194,1562,180"/>
+<area shape="poly" id="edge17_Node000013_Node000007" title=" " alt="" coords="1501,175,1556,209,1622,244,1645,253,1643,257,1620,249,1553,214,1498,179"/>
+</map>

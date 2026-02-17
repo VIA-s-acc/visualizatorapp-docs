@@ -1,0 +1,11 @@
+<map id="src.ui.main_window.StandardModeWindow._on_settings_changed" name="src.ui.main_window.StandardModeWindow._on_settings_changed">
+<area shape="rect" id="Node000001" title="Handle settings changed signal &#45; refresh visualization and update styles." alt="" coords="5,49,217,103"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="541,5,753,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,46,265,33,401,21,527,19,527,24,401,27,266,39,204,51"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="540,85,755,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,101,266,113,332,120,400,122,526,119,526,124,400,127,332,125,265,119,201,106"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#af9f20834103c112625c0690976a25277" title="Handle visualization update request." alt="" coords="265,49,492,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,73,252,73,252,79,218,79"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="492,52,527,45,528,50,493,57"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="492,89,527,93,526,98,492,94"/>
+</map>

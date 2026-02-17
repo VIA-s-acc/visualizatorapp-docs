@@ -1,0 +1,8 @@
+<map id="src.ui.components.data_loader_widget.DataLoaderSection.__init__" name="src.ui.components.data_loader_widget.DataLoaderSection.__init__">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,45,257,100"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="74,45,74,35,84,26,103,21,131,19,165,22,184,30,182,35,163,27,131,24,104,26,87,31,79,37,79,45"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a9c513f673a8dfbcdf41450d359032166" title="Setup data information display." alt="" coords="305,5,557,60"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="257,53,291,49,292,54,258,59"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html#a4d3f11f7fee56f62b091e4a6368eb94c" title="Setup file selection controls." alt="" coords="305,84,557,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="258,86,292,91,291,96,257,92"/>
+</map>

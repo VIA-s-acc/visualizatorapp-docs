@@ -1,0 +1,7 @@
+<map id="signal_spectrum_utility.app.MainWindow._window_indices_from_manual_markers" name="signal_spectrum_utility.app.MainWindow._window_indices_from_manual_markers">
+<area shape="rect" id="Node000001" title="Convert manual start/end time markers to sample indices." alt="" coords="559,5,777,60"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a460af90d4852961e41ccb6863ef63786" title="Create and append one manual window from start/end markers." alt="" coords="257,13,511,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,35,511,35,511,30,545,30"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a0a1a12cff0b66cc92daefcfeba438aac" title="Build the main window layout." alt="" coords="5,13,209,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,35,209,35,209,30,244,30"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="signal_spectrum_utility.app.MainWindow._apply_runtime_settings" name="signal_spectrum_utility.app.MainWindow._apply_runtime_settings">
+<area shape="rect" id="Node000001" title="Apply current settings object to runtime UI/behavior." alt="" coords="560,41,771,96"/>
+<area shape="rect" id="Node000002" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a1383a1fda563079fb2b4d51e50530bc1" title="Apply persisted settings dictionary to runtime settings." alt="" coords="279,5,490,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,56,490,49,491,44,547,51"/>
+<area shape="rect" id="Node000004" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a9e99a8167ee8dcc3be1d265e936261a3" title="Open settings dialog and apply changes when accepted." alt="" coords="257,85,512,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="547,87,513,91,512,86,546,81"/>
+<area shape="rect" id="Node000003" href="$classsignal__spectrum__utility_1_1app_1_1MainWindow.html#a993b0ea8b7f44df0a841fbe17477af0e" title="Load UI state from a session JSON file." alt="" coords="5,5,209,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,35,210,35,210,30,266,30"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="src.interpolation_go.binary_client.BinaryInterpolationClient.interpolate" name="src.interpolation_go.binary_client.BinaryInterpolationClient.interpolate">
+<area shape="rect" id="Node000001" title="Perform interpolation via fast binary protocol." alt="" coords="5,406,312,446"/>
+<area shape="rect" id="Node000002" href="$namespacesrc_1_1interpolation__go_1_1binary__client.html#ae2ef2c1abf920cf72be094e5e0ea48cb" title="Calculate adaptive timeout based on grid size." alt="" coords="384,5,583,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,405,185,340,224,250,250,201,281,153,317,108,358,69,371,61,374,65,362,73,321,112,285,156,255,204,228,252,190,342,168,407"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1interpolation__go_1_1binary__client_1_1BinaryInterpolationClient.html#acdc128f01ad3497f7b9885a9a475273b" title=" " alt="" coords="365,84,601,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,405,193,353,234,284,290,211,323,177,358,148,365,143,368,148,362,152,326,181,294,215,239,287,197,356,171,407"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1interpolation__go_1_1shm__client_1_1ShmInterpolationClient.html#afa309599941f22684d84cb8dbe751b94" title=" " alt="" coords="372,163,595,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,404,204,366,247,319,300,269,359,226,368,221,371,226,361,231,303,273,251,322,208,370,177,407"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1interpolation__go_1_1binary__client_1_1BinaryInterpolationClient.html#a208ffee7303b7545500dd8681a7add44" title=" " alt="" coords="365,241,601,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="188,403,264,355,359,305,374,299,376,303,361,310,266,360,191,408"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1interpolation__go_1_1shm__client_1_1ShmInterpolationClient.html#a67f3d9b836e4096604adefed44fbba07" title=" " alt="" coords="372,320,595,375"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="241,403,358,375,359,380,243,409"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1interpolation__go_1_1binary__client_1_1BinaryInterpolationClient.html#a93dc692e1712fe49c63d773579d4dfca" title=" " alt="" coords="365,399,601,453"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="312,423,352,423,352,429,312,429"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1interpolation__go_1_1binary__client_1_1BinaryInterpolationClient.html#a8ba5f38d6af17ad1c421ce450edb1bab" title=" " alt="" coords="365,477,601,532"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="243,443,357,471,356,477,241,449"/>
+<area shape="rect" id="Node000010" href="$classsrc_1_1interpolation__go_1_1binary__client_1_1BinaryInterpolationClient.html#aab943146e8930837da15e721bd465966" title=" " alt="" coords="360,556,607,611"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="191,444,267,491,361,541,379,549,377,554,359,546,264,496,189,449"/>
+<area shape="rect" id="Node000011" href="$classsrc_1_1interpolation__go_1_1client_1_1GoInterpolationClient.html#a6c8aa45a66fb3d7e1c8f459ebc685897" title="Check cached availability status." alt="" coords="386,635,581,689"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="177,445,251,529,303,577,361,620,375,627,372,632,359,624,300,581,247,532,173,448"/>
+<area shape="rect" id="Node000012" href="$classsrc_1_1interpolation__go_1_1shm__client_1_1ShmInterpolationClient.html#a26e940d440772ca28ee919b5c17fae88" title=" " alt="" coords="366,713,601,768"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="172,445,198,496,239,564,294,636,327,669,362,699,370,704,367,709,358,703,323,673,290,640,235,567,193,499,167,447"/>
+<area shape="rect" id="Node000013" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html#a3a67dc25e582c54795799cdb595925ff" title="Check if PyVistaQt is available." alt="" coords="386,793,581,833"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="168,445,189,510,227,600,254,648,285,696,320,739,362,777,375,786,372,791,358,781,317,743,280,699,249,651,223,602,184,512,163,447"/>
+<area shape="rect" id="Node000009" href="$classsrc_1_1interpolation__go_1_1binary__client_1_1BinaryInterpolationClient.html#a8137419d7a45147eb80ca9cb53e59898" title=" " alt="" coords="655,477,891,532"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="602,502,641,502,641,507,602,507"/>
+</map>

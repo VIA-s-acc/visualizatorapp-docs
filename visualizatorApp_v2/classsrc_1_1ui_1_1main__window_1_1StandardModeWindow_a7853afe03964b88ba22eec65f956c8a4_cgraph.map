@@ -1,0 +1,7 @@
+<map id="src.ui.main_window.StandardModeWindow._load_widget_settings" name="src.ui.main_window.StandardModeWindow._load_widget_settings">
+<area shape="rect" id="Node000001" title="Load widget settings from config on startup." alt="" coords="5,34,217,89"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1main__window_1_1StandardModeWindow.html#a8aff55cf0f083334165613c97706b1a5" title="Log message to log tab." alt="" coords="267,5,479,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,44,253,39,253,44,218,49"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1profile__mode__window_1_1ProfileModeWindow.html#a6ee245956e4bb5cdd8ac4fa3046a62b9" title="Log message to log tab." alt="" coords="265,70,480,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,73,252,78,251,83,217,79"/>
+</map>

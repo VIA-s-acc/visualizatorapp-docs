@@ -1,0 +1,39 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,555,84,581"/>
+<area shape="rect" id="Node000001" href="$classsrc_1_1ui_1_1components_1_1collapsible__section_1_1CollapsibleSection.html" title="A collapsible widget with a title bar." alt="" coords="160,261,375,301"/>
+<area shape="poly" id="edge44_Node000000_Node000001" title=" " alt="" coords="44,541,49,492,63,430,88,366,107,337,130,311,158,293,161,298,134,315,111,340,93,369,68,432,55,493,50,542"/>
+<area shape="rect" id="Node000011" href="$classsrc_1_1ui_1_1components_1_1coordinate__display__widget_1_1CoordinateDisplayWidget.html" title="Widget for configuring coordinate display options." alt="" coords="142,326,393,381"/>
+<area shape="poly" id="edge54_Node000000_Node000011" title=" " alt="" coords="49,541,59,507,75,466,99,425,130,390,147,379,150,383,134,394,103,428,80,468,64,508,54,542"/>
+<area shape="rect" id="Node000012" href="$classsrc_1_1ui_1_1components_1_1grid__settings__widget_1_1GridSettingsWidget.html" title="Widget for configuring grid display parameters." alt="" coords="159,405,375,459"/>
+<area shape="poly" id="edge55_Node000000_Node000012" title=" " alt="" coords="60,541,90,504,131,470,158,456,160,460,133,474,94,508,64,545"/>
+<area shape="rect" id="Node000013" href="$classsrc_1_1ui_1_1components_1_1isosurface__widget_1_1IsosurfaceWidget.html" title="Widget for isosurface configuration and building." alt="" coords="161,484,373,524"/>
+<area shape="poly" id="edge56_Node000000_Node000013" title=" " alt="" coords="89,548,131,533,175,521,176,527,133,539,91,553"/>
+<area shape="rect" id="Node000014" href="$classsrc_1_1ui_1_1components_1_1loading__spinner_1_1LoadingOverlay.html" title="Loading overlay with spinner and optional message." alt="" coords="171,548,364,588"/>
+<area shape="poly" id="edge57_Node000000_Node000014" title=" " alt="" coords="98,565,170,565,170,571,98,571"/>
+<area shape="rect" id="Node000015" href="$classsrc_1_1ui_1_1components_1_1loading__spinner_1_1LoadingSpinner.html" title="Animated loading spinner widget." alt="" coords="171,612,364,652"/>
+<area shape="poly" id="edge58_Node000000_Node000015" title=" " alt="" coords="91,583,133,597,176,609,175,615,131,603,89,588"/>
+<area shape="rect" id="Node000016" href="$classsrc_1_1ui_1_1components_1_1tech__columns__widget_1_1TechColumnsWidget.html" title="Widget for technical columns configuration." alt="" coords="132,676,403,716"/>
+<area shape="poly" id="edge59_Node000000_Node000016" title=" " alt="" coords="64,591,93,628,112,646,133,662,158,673,155,678,131,666,109,650,89,632,59,594"/>
+<area shape="rect" id="Node000017" href="$classsrc_1_1ui_1_1components_1_1value__range__widget_1_1ValueRangeWidget.html" title="Widget for defining value ranges with custom colors." alt="" coords="145,740,389,780"/>
+<area shape="poly" id="edge60_Node000000_Node000017" title=" " alt="" coords="55,593,66,624,82,660,104,696,134,726,152,738,150,742,130,730,100,699,77,663,61,626,50,595"/>
+<area shape="rect" id="Node000018" href="$classsrc_1_1ui_1_1components_1_1viewer__3d_1_1Viewer3D.html" title="3D viewer widget using PyVistaQt" alt="" coords="173,804,362,844"/>
+<area shape="poly" id="edge61_Node000000_Node000018" title=" " alt="" coords="51,594,58,637,72,690,97,744,114,769,134,790,152,803,173,812,171,816,150,807,130,794,109,772,92,747,67,692,53,638,46,595"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1ui_1_1components_1_1data__loader__widget_1_1DataLoaderSection.html" title="Data loader control section." alt="" coords="455,5,703,45"/>
+<area shape="poly" id="edge45_Node000001_Node000002" title=" " alt="" coords="283,248,310,204,348,152,394,99,449,55,473,43,475,48,452,60,398,103,352,155,315,207,288,251"/>
+<area shape="rect" id="Node000003" href="$classsrc_1_1ui_1_1components_1_1export__widget_1_1ExportSection.html" title="Export control section." alt="" coords="485,69,672,109"/>
+<area shape="poly" id="edge46_Node000001_Node000003" title=" " alt="" coords="293,249,359,183,402,149,449,119,484,105,486,110,452,124,406,153,363,187,296,253"/>
+<area shape="rect" id="Node000004" href="$classsrc_1_1ui_1_1components_1_1interpolation__widget_1_1InterpolationSection.html" title="Interpolation control section." alt="" coords="465,133,693,173"/>
+<area shape="poly" id="edge47_Node000001_Node000004" title=" " alt="" coords="311,252,376,217,450,183,486,171,488,176,452,188,378,221,314,257"/>
+<area shape="rect" id="Node000005" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1DetectionSection.html" title="Movement detection section." alt="" coords="481,197,676,237"/>
+<area shape="poly" id="edge48_Node000001_Node000005" title=" " alt="" coords="378,256,480,235,481,240,379,261"/>
+<area shape="rect" id="Node000006" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1MergingSection.html" title="Data merging section." alt="" coords="485,261,672,301"/>
+<area shape="poly" id="edge49_Node000001_Node000006" title=" " alt="" coords="389,279,485,279,485,284,389,284"/>
+<area shape="rect" id="Node000007" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1ProfileDataSection.html" title="Profile data information section." alt="" coords="477,325,681,365"/>
+<area shape="poly" id="edge50_Node000001_Node000007" title=" " alt="" coords="379,302,481,323,480,328,378,307"/>
+<area shape="rect" id="Node000008" href="$classsrc_1_1ui_1_1components_1_1profile__widgets_1_1ProfileInterpolationSection.html" title="Profile mode interpolation section." alt="" coords="451,389,707,429"/>
+<area shape="poly" id="edge51_Node000001_Node000008" title=" " alt="" coords="389,302,404,311,421,327,429,344,437,360,452,375,474,387,471,391,449,379,433,363,424,346,416,330,401,315,386,307"/>
+<area shape="rect" id="Node000009" href="$classsrc_1_1ui_1_1components_1_1slice__viewer__widget_1_1SliceViewerSection.html" title=" " alt="" coords="453,453,705,493"/>
+<area shape="poly" id="edge52_Node000001_Node000009" title=" " alt="" coords="389,300,404,311,418,327,426,344,429,377,433,409,440,424,452,439,469,451,466,455,449,443,435,427,428,411,424,378,420,345,414,330,401,315,386,305"/>
+<area shape="rect" id="Node000010" href="$classsrc_1_1ui_1_1components_1_1visualization__widget_1_1VisualizationSection.html" title="Visualization control section." alt="" coords="465,517,693,557"/>
+<area shape="poly" id="edge53_Node000001_Node000010" title=" " alt="" coords="389,299,405,311,423,336,430,360,432,385,429,409,427,434,428,457,436,481,453,503,467,515,464,519,449,507,431,483,423,458,422,433,424,409,426,385,425,361,418,338,401,315,385,303"/>
+</map>
